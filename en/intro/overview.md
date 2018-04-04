@@ -25,6 +25,7 @@ For more details, please check [Altizure Official Website](https://www.altizure.
 * Support Coordinate Calibration (for Mainland China users)
 * Support flight record export
 
+
 Other Functions (only available for iOS):
 * Support importing and displaying additional KML layers
 * Support adding annotations on the map by entering GPS coordinate of the point
@@ -64,7 +65,7 @@ Note: Do not support DJI aricrafts with a Display controller, e.g. Phantom 4 Pro
 
 Notes:
 
-1. As there's no third-party API at the moment, Altizure App only supports DJI cameras. If you use Altizure app with a third-party camera, your drone may not be able to automatically take photos .
+1. As there's no API for third-party cameras at the moment, Altizure App only supports DJI cameras. If you use Altizure app with a third-party camera, your drone may not be able to automatically take photos.
 2. Spark does not support waypoint mission, which is required by Altizure app. The reason for this is unknown.
 3. As this is a new model, DJI SDK cannot support this UAV at the moment. We need to wait for DJI's SDK updates and the updates in waypoint mission support.
 4. DJI SDK is not (and probably will never be) fully compatible with Phantom 3 SE.
@@ -77,9 +78,10 @@ Notes:
 | Cameras carried by aircrafts of Phantom、Mavic、Spark series | ✔︎ | ✔︎ |
 | Zenmuse X3, X4S, X5/X5R/X5S | ✔ ︎|✔︎ |
 | Other cameras | Support adding additional camera components <sup>1</sup> | ✖︎ |
+Note:
+1. You can add camera parameters for flight planning and automatic flight. As there's no API for third-party cameras at the moment, your drone may not be able to automatically take photos if you use Altizure app with a third-party camera.
 
-1. 可以添加相机参数用于线路规划和自主飞行。但由于缺少第三方相机的 API，使用第三方相机飞行时 app 可能无法自动拍照。
 
 ---
 
-该文档最后修改于 {{ file.mtime }}
+Last modified at {{ file.mtime }}
