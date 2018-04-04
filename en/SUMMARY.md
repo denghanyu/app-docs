@@ -1,6 +1,6 @@
 # Summary
 
-* [Altizure App Guides](README.md)
+* [Altizure App Guides](../README.md)
 
 ## Introduction
 
