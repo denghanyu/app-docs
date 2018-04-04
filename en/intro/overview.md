@@ -17,34 +17,24 @@ For more details, please check [Altizure Official Website](https://www.altizure.
 * Automatic adjustments in Camera Angles and automatic image-taking function.
 * Save and upload mission function.
 * Continued flights requiring more than one battery swap can resume correctly as Altizure app records flight status automatically.
-* Adjustable settings in overlap, tilt Angle, speed and the time between shots in the interval shot mode, etc.
+* Adjustable settings in overlap, tilt Angle, etc.
 * Possibility to choose between Return-to-Home and Continue the Mission in Signal Loss.
-* 
+* 针对不同相机型号调整航线，可自定义相机型号
 * Support Apple Map (iOS) and Gaode Map (Android)
 * Support Google Map (You need to be able to connect to Google.)
 * Support Coordinate Calibration (for Mainland China users)
 * Support flight record export
 
+Other Functions (only available for iOS):
+* Support importing and displaying additional KML layers
+* Support adding annotations on the map by entering GPS coordinate of the point
+* Support adding Tile layers both online and offline.
+* Suport customized camera settings.
+* Allow adjusting settings in Flight Speed and the time between shots in the interval shot mode.
+* Allow adjusting exposure settings in Altizure app.
+* Support No-Fly-Zone display on map.
+* Integrated flight simulator.
 
-
-
-
-
-
-* 针对不同相机型号调整航线，可自定义相机型号
-
-
-
-iOS 版附加功能：
-
-* 能够导入 KML 并在地图上显示
-* 可以输入坐标点的经纬度，在地图上做标记
-* 支持自定义瓦片图层，支持添加离线数据
-* 支持添加自定义相机配置
-* 允许调整飞行速度、拍照间隔等参数
-* 支持在 app 内调整曝光设置
-* 禁飞区显示
-* 内置飞行模拟器
 
 ## Supported Smart Phones/ Tables & UAVs {#devices}
 
