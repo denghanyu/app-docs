@@ -2,7 +2,7 @@
 
 ## Download Links {#installation}
 
-For more details, please check [Altizure Official Website](https://www.altizure.com/mobile)：
+For more details, please check [Altizure Official Website](https://www.altizure.com/mobile):
 
 * iOS: Search "Altizure" in AppStore. Download and install. [Click here to download from AppStore](https://itunes.apple.com/app/id1018791616?mt=8). Or, your can download it by scanning the QR code. (You are recommended to use the smart phone camera in iOS 11):
         ![AppStore 二维码](../../assets/app-download-ios-appstore.png)
@@ -18,7 +18,12 @@ For more details, please check [Altizure Official Website](https://www.altizure.
 * Save and upload mission function.
 * Continued flights requiring more than one battery swap can resume correctly as Altizure app records flight status automatically.
 * Adjustable settings in overlap, tilt Angle, speed and the time between shots in the interval shot mode, etc.
-* Possibility to choose between Return-to-Home and continue the mission in Signal Loss.
+* Possibility to choose between Return-to-Home and Continue the Mission in Signal Loss.
+* 
+* Support Apple Map (iOS) and Gaode Map (Android)
+* Support Google Map (You need to be able to connect to Google.)
+* Support Coordinate Calibration (for Mainland China users)
+* Support flight record export
 
 
 
@@ -26,27 +31,7 @@ For more details, please check [Altizure Official Website](https://www.altizure.
 
 
 
-Support Apple and Google maps
-Calibrate coordinates in Mainland China
-
-
-
-* Can choose to Return-to-Home or continue the mission in Signal Loss
-* Can choose different cameras and the app will automatically adjust the flight plans and relevant settings accordingly
-
-
-* 可以同时规划一条正射航线与四条倾斜航线
-* 自动调整云台角度，自主拍摄照片
-* 支持任务保存与加载
-* 自动记录飞行进度，支持换电续飞
-
-* 支持重叠度、倾斜角等设置
-* 可选择在丢失遥控信号后继续执行任务，或自动返航
 * 针对不同相机型号调整航线，可自定义相机型号
-* 支持苹果地图（iOS），高德地图 （Android）
-* 支持谷歌地图（要求网络能连接到谷歌服务器）
-* 支持中国大陆坐标纠偏
-* 可导出飞行记录
 
 
 
@@ -61,45 +46,47 @@ iOS 版附加功能：
 * 禁飞区显示
 * 内置飞行模拟器
 
-## 支持的手机/平板和无人机 {#devices}
+## Supported Smart Phones/ Tables & UAVs {#devices}
 
-### 手机/平板系统要求
+### Requirements on Smart Phone/ Tablet
 
-* iOS: 运行 iOS 9.0 以上的 iPhone, iPad, iPod
-* Android: 运行 Android 6.0 以上的手机或平板（不支持 Intel 芯片的设备）
+* iOS: Must be iPhone, iPad or iPod with iOS 9.0 or above.
+* Android: Must be smart phones/ tablets with Android 6.0 or above. (Do not support devices with Intel CPUs)
 
-注：不支持 DJI 官方屏幕，例如：Phantom 4 Pro+ 遥控上自带的屏幕
+Note: Do not support DJI aricrafts with a Display controller, e.g. Phantom 4 Pro+.
 
-### 航线任务支持的无人机型号
+### Supported UAVs
 
-| 型号 | iOS (v4.0.0) | Android (v3.7.3) |
+| UAVs | iOS (v4.0.0) | Android (v3.7.3) |
 | ---  | :---: | :---: |
 | Phantom 3 \(Pro / Advanced / 4K / Standard\) | ✔︎ | ✔︎ |
 | Phantom 4 \(4 / 4 Adv / 4 Pro\) | ✔︎ | ✔︎ |
 | Mavic Pro | ✔︎ | ✔︎ |
 | Inspire 1 / 2 | ✔︎ | ✔︎ |
-| M100, M600 系列 （注1） | ✔︎ | ✔︎ |
-| A2 / A3 + LB2 （注1） | ✔︎ | ✔︎ |
-| M200 系列 （注1） | 未测试 | 未测试 |
-| N3 + LB2 （注1） | 未测试 | 未测试 |
-| Spark （注2） | 暂不支持 | 暂不支持 |
-| Mavic Air （注3） | 暂不支持 | 暂不支持 |
-| Phantom 3 SE （注4） | 不支持 | 不支持 |
-| Phantom 4 Pro+ 带屏幕版 （注5） | 不支持 | 不支持 |
+| M100, M600 series <sup>1</sup> | ✔︎ | ✔︎ |
+| A2 / A3 + LB2 <sup>1</sup> | ✔︎ | ✔︎ |
+| M200 系列 <sup>1</sup> | Testing | Testing  |
+| N3 + LB2 <sup>1</sup> | Testing  | Testing  |
+| Spark <sup>2</sup> | Not Supported Yet | Not Supported Yet |
+| Mavic Air <sup>3</sup> | Not Supported Yet | Not Supported Yet |
+| Phantom 3 SE <sup>4</sup> | Not Supported | Not Supported |
+| Phantom 4 Pro+ (Includes Display) <sup>5</sup>| Not Supported | Not Supported |
 
-1. 由于缺少第三方相机的 API，目前只兼容大疆官方相机，使用第三方相机时 app 可能无法自动拍照。
-2. 由于未知原因，Spark 暂时不支持航线任务。
-3. 由于是新机型，DJI SDK 尚未支持此机型。需要等待 SDK 更新并支持航线任务。
-4. 不能完美兼容此机型，因为 DJI SDK 不支持（可能永远不会支持） Phantom 3 SE。
-5. 不支持在自带屏幕上使用 Altizure，需要使用不带屏幕的遥控。
+Notes:
 
-### 航线任务支持的相机型号 {#cameras}
+1. As there's no third-party API at the moment, Altizure App only supports DJI cameras. If you use Altizure app with a third-party camera, your drone may not be able to automatically take photos .
+2. Spark does not support waypoint mission, which is required by Altizure app. The reason for this is unknown.
+3. As this is a new model, DJI SDK cannot support this UAV at the moment. We need to wait for DJI's SDK updates and the updates in waypoint mission support.
+4. DJI SDK is not (and probably will never be) fully compatible with Phantom 3 SE.
+5. Altizure app does not support aircrafts with Display controller. It must be used on a remote controller without Display controller.
 
-| 型号 | iOS (v4.0.0) | Android (v3.7.3) |
+### Supported Cameras for Waypoint Missions {#cameras}
+
+| Cameras | iOS (v4.0.0) | Android (v3.7.3) |
 | ---  | :---: | :---: |
-| Phantom、Mavic、Spark 系列自带相机 | ✔︎ | ✔︎ |
-| 禅思 Zenmuse X3, X4S, X5/X5R/X5S | ✔ ︎|✔︎ |
-| 其他相机 | 支持添加相机配置（注1）| ✖︎ |
+| Cameras carried by aircrafts of Phantom、Mavic、Spark series | ✔︎ | ✔︎ |
+| Zenmuse X3, X4S, X5/X5R/X5S | ✔ ︎|✔︎ |
+| Other cameras | Support adding additional camera components <sup>1</sup> | ✖︎ |
 
 1. 可以添加相机参数用于线路规划和自主飞行。但由于缺少第三方相机的 API，使用第三方相机飞行时 app 可能无法自动拍照。
 
