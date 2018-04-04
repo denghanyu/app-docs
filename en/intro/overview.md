@@ -33,7 +33,7 @@ Other Functions (only available for iOS):
 * Suport customized camera settings.
 * Allow adjusting settings in Flight Speed and the time between shots in the interval shot mode.
 * Allow adjusting exposure settings in Altizure app.
-* Support No-Fly-Zone display on map.
+* Support No-Fly-Zones display on map.
 * Integrated flight simulator.
 
 

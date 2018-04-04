@@ -14,7 +14,7 @@
 * [Using Altizure for the First Time](prep/post-installation.md)
 * [Choose the Map](prep/choose-basemap.md)
 
-## Flight Planning (iOS)
+## Flight Planning \(iOS\)
 
 * [Create, Save & Load Missions](mission-ios/create-save-load.md)
 * [Mission Settings](mission-ios/settings.md)
@@ -31,6 +31,3 @@
 * [About Oblique Photography & Ortho](faqs/2d-3d-mapping.md)
 * [About Flight Safety](faqs/safety.md)
 
----
-
-Last modified at {{ file.mtime }}
