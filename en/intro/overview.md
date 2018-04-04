@@ -19,11 +19,11 @@ For more details, please check [Altizure Official Website](https://www.altizure.
 * Continued flights requiring more than one battery swap can resume correctly as Altizure app records flight status automatically.
 * Adjustable settings in overlap, tilt Angle, etc.
 * Possibility to choose between Return-to-Home and Continue the Mission in Signal Loss.
-* 针对不同相机型号调整航线，可自定义相机型号
-* Support Apple Map (iOS) and Gaode Map (Android)
-* Support Google Map (You need to be able to connect to Google.)
-* Support Coordinate Calibration (for Mainland China users)
-* Support flight record export
+* Function on automatically adjusting the flight routes according to the camera you choose.
+* Support for Apple Map (iOS) and Gaode Map (Android)
+* Support for Google Map (You need to be able to connect to Google.)
+* Support for Coordinate Calibration (for Mainland China users)
+* Support for flight record export
 
 
 Other Functions (only available for iOS):
