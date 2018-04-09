@@ -1,0 +1,45 @@
+# Necessary Pre-Flight Preparations (iOS)
+
+## Check the settings in DJI Go
+
+Before flying your drone, we recommend users to check the drone settings in DJI Go. Please make sure that the drone will operate in good conditions. The settings include but are not limited to:
+
+我们建议在使用飞机之前，先在大疆官方的 DJI Go app 中检查飞机的各项参数，确保飞机的状态适合执行任务。需要确认的状态包括但不限于：
+
+* On the top-left corner of the screen, the System Status is **READY TO GO**.
+* GPS, Compass and IMU are all in normal settings.
+* Battery, Voltage, Battery Temperature are all in normal conditions.
+* RTH altitude is . RTH
+
+* 飞机顶栏显示绿色“可安全飞行”；
+* 定位、指南针、IMU 正常；
+* 电量、电压、电池温度正常；
+* 返航高度合适，失控行为为“返航”；
+* 相机和云台自检通过；
+* SD 卡容量充足；
+* 相机的曝光、快门、白平衡、对焦等设置适合当前任务；
+* 禁飞区范围；
+* ...
+
+## Connecting the Remote Controller to Altizure App
+
+Altizure app 的正上方的状态栏会显示飞机的连接状态为“连接断开”或“已连接”，右下角的图传会在飞机连接后立即启用并显示画面。如果飞机没有正常连接，请尝试重新插拔一次 USB 线。
+
+连接完成后，再次检查飞机在 Altizure app 中的状态显示，确认：
+
+* 顶栏没有出错提示；
+* 顶栏 GPS 状态、电池电量和电压状态正常，右下角图传显示正常；
+* 飞机在地图上显示的位置（蓝色三角形标示）符合当前的飞机位置，否则需要调整[地图纠偏设置](../prep/choose-basemap.md)
+
+## Start to Set the Settings in Altizure App
+
+将任务各项参数设置完成并保存后，点击设置面板的右上角的 “就绪”，开始启动任务准备过程。这个过程中，app 会对飞机作出一系列检查和自动设置，包括
+
+1. 安全检查
+2. 云台设置
+3. 相机设置
+4. 上传任务
+
+---
+
+该文档最后修改于 {{ file.mtime }}
