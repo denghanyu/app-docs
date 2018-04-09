@@ -40,7 +40,7 @@ Please understand:
 13. The ways to calibrate the compass.
 14. Difference between various flight modes on the remote controller (e.g. P-A-F, P-A-S, Sport).
 15. How to determine that your drone is in Danger or Warning Status according to the Aircraft Status Indicator on the drone.
-16. Familiarize yourself with various Low-Battery warnings and the possible drone operations when these warnings are triggered.
+16. Familiarize yourself with various Low-Battery warnings and the drone operations that you can possibly execute when these warnings are triggered.
 17. The situations in which your drone will choose to land at its current location instead of returning to its Home Point. The ways to avoid losing your drone during this operation. 
 18. During flights, the possible changes in battery voltage and the voltage conditions for safe flights.
 19. The weather conditions for flying drones and the potential dangers that you might encounter when flying in low temperature environment.
