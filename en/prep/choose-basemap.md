@@ -18,7 +18,7 @@ Flight Planning requires clear Satellite Map. As the data available for differen
 1. **Map is not displayed on the screen/ No satellite imagery data**
 **地图没有卫星数据**
 
-  First, please check the internet connection. As Altizure app does not have built-in maps, it will automatically cache map data. In this way, the app can load the cache data when there's no internet. Due to the limited space in cell phones, the app will only cache the lately-browse map data.
+  First, please check the internet connection. As Altizure app does not have built-in maps, it needs to automatically cache map data in order to display maps. In addition, the app can also load the cache data when there's no internet. Due to the limited space in cell phones, the app will only cache the lately-browse map data.
 
   If the satellite map is still not displayed on screen when the internet connection is good, the possible reason might be that the map provider does not have the satellite data in this area. Normally, Apple map and Gaode map only provides the map data in cities and some suburb areas, but not in rural and remote areas. Google map covers the widest region and has more frequent updates. So, we recommend users to choose Google map when Apple map and Gaode map do not work.
     
