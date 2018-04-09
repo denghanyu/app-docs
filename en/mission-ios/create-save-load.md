@@ -27,7 +27,7 @@ Besides, before executing the mission, please click **Save** to lock the setting
 
 ## Mission Files {#files}
 
-Mission files are saved in the **Missions** folder in tablets. Every sub-folder (namely **missionXXX**, in which **XXX** is the sequence number) represents a flight mission. You can copy the mission settings by using iTunes or any other tools. Moving or sharing flight missions to other devices is also available.
+Mission files are saved in the **Missions** folder in tablets. Every sub-folder (namely **missionXXX**, in which **XXX** is the sequence number) represents a flight mission. You can copy the mission settings, or move and share your flight missions to other devices by using iTuens or any other tools you like.
 
 任务文件被保存在平板设备的 missions 文件夹内，里面每个子文件夹 missionXXX （XXX 为序号）都表示一个任务。使用电脑上的 iTunes 等工具可以备份任务设置，或者用来迁移、分享任务给其他设备使用。
 
