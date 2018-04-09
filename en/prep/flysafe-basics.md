@@ -14,44 +14,30 @@ Drone is not a toy that can be easily controlled. Its powerful engine and high-s
 
 ## Things that you MUST know:
 
-1. Without any app, how to **takeoff** and **land** your drone only by using the remote controller?
-2. After landing your drone without any app, how to **stop the motor** only by using the remote controller? (In this case, please push the up/down stick down to the bottom. Please don't push the right stick to the bottom left and left stick to the bottom right)
+1. Without any app, how to takeoff/ land your drone only by using the remote controller?
+2. After landing your drone without any app, how to stop the motor only by using the remote controller? (In this case, please push the up/down stick down to the bottom. Please don't push the right stick to the bottom left and left stick to the bottom right)
 3. Without any app, how to determine whether the drone is in Signal Lost? (You can observe the Status LED on the remote controller. This is more reliable than using app.)
-4. Without any app, how to **Cancel/ Execute** the automatic **Return-to-Home (RTH)** operation?
+4. Without any app, how to Cancel/ Execute the automatic Return-to-Home (RTH) operation?
 5. What are the possible operations that might be executed by drones in Signal Lost?
 6. When the drone is returning to Home Point, how many sounds does the remote controller make?
 7. How to set the Return-to-Home (RTH) Height?
 8. What are the drone operations and the Control Stick operations in each phase of flight?
 9. During the RTH phase, the aircraft needs to climb to a certain altitude before safely returning to its last recorded Home Point at this altitude. Please be aware of the possible consequences that might be caused by operating the up/down stick.
-10. Landing accuracy (i.e. the distance between the landing point and the takeoff point).
-11. The meaning of Home Point and ways to set it. The situations in which the drone can automatically set the Home Point location and the place of the auto-set Home Point.
-12. The GPS Signal Strength for safe flights.
-13. The ways to calibrate the compass.
-14. Difference between various flight modes on the remote controller (e.g. P-A-F, P-A-S, Sport).
-15. How to determine that your drone is in Danger or Warning Status according to the Aircraft Status Indicator on the drone.
-16. Familiarize yourself with various Low-Battery warnings and the drone operations that you can possibly execute when these warnings are triggered.
-17. The situations in which your drone will choose to land at its current location instead of returning to its Home Point. The ways to avoid losing your drone during this operation. 
-18. During flights, the possible changes in battery voltage and the voltage conditions for safe flights.
-19. The weather conditions for flying drones and the potential dangers that you might encounter when flying in low temperature environment.
-20. Without any app, how to lower/raise the landing gear only with the remote controller (Inspire series, Matrice series, etc.).
-21. Limitations on flight altitude and radius limits, as well as the ways to adjust the limitations.
-22. The accuracy of your drone's GPS coordinates in Altizure app map and the ways to set it right.
+10. What's the landing accuracy (i.e. the distance between the landing point and the takeoff point)?
+11. What does Home Point mean and how to set it? When can the drone automatically set its Home Point location, and what's the location?
+12. What's the GPS Signal Strength for safe flights?
+13. How to calibrate the compass?
+14. What's the difference between various flight modes on the remote controller (e.g. P-A-F, P-A-S, Sport)?
+15. How to determine that your drone is in Danger or Warning Status according to the Aircraft Status Indicator on the drone?
+16. How many types of Low-Battery warnings are there? After these warnings are triggered, what possible operations can I carry out with my drone?
+17. Under what circumstances will the drone choose to land at its current location instead of returning to the Home Point? How to avoid losing your drone during this operation?
+18. How will the battery voltage change during flights? What are the voltage conditions for safe flights?
+19. What's the weather condition for flying drones? What potential danger you might face when flying in low temperature environment?
+20. Without any app, how to lower/raise the landing gear only with the remote controller (Inspire series, Matrice series, etc.)?
+21. What's the limitations on flight altitude and radius limits? How to adjust the limitation settings?
+22. Why the GPS coordinates of your drone is inaccurate on the app map? How to set it right?
 
-请熟悉：
-5. 丢失遥控信号后，飞机会执行什么样的操作？
-6. 返航时，遥控器会发出哪几种声响？
-7. 什么是返航高度，如何设置？
-8. 返航的各个阶段，遥控器的的摇杆是否有效？可以做哪些操作？
-9. 返航时，飞机爬升至返航高度的过程中，调整遥控器的油门会有怎样的后果？
-10. 飞机自动返航过程中，着陆有多精准（着陆点与起飞点距离）？
-11. 什么是返航点？如何设置？什么时候飞机会自动设置返航点？设置在哪里？
-12. GPS 信号和星数达到什么条件才能稳定飞行？
-13. 如何校准指南针？
-14. 遥控上的多种飞行模式（P-A-F 或 P-A-S 或 Sport 等）有怎样的区别？
-15. 如何根据飞机的指示灯判断飞机是否处于危险或警告状态？
-16. 飞机有哪几种低电量警告级别？触发这些警告后，飞机会执行什么样的操作？
-17. 在哪种情况下，飞机自动原地下降而不选择返航？如何避免飞机因为原地下降而飞丢？
-18. 飞行过程中，飞机电池的电压会有怎样的变化？电压需要达到多少才能稳定飞行？
-19. 飞机能在怎样的天气下工作？冬季低温飞行时飞机可能会遇到怎样的危险？
-21. 飞机的飞行高度限制、距离限制是多少？如何调整？
-22. 为什么飞机的坐标在 app 的地图上会不准确？如何设置使其显示正确？
+
+---
+
+Last modified at {{ file.mtime }}
