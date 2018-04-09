@@ -1,21 +1,21 @@
 # About Maps
 
-## 飞机在地图上的定位不准
+## The aircraft's position on the map is not accurate
 
-受国家法规规定，国内地图须采用特殊的坐标系统。这与飞机内置的坐标系统不匹配，所以在中国内地使用地图服务时显示的飞机位置可能会有大约数百米的偏差。您可以通过调整 “中国内地坐标纠偏” 选项来纠正飞机的位置。
+According to Chinese regulations, Chinese maps must adopt a special coordinate system, which does not match the aircraft's built-in coordinate system. So, the position of the aircraft displayed when using the map service in Mainland China may have a deviation of a few hundred meters. You can calibrate the position of the aircraft by adjusting the settings in **Coordinate Calibration (for Mainland China)**.
 
-如何找到纠偏选项：
+Where to find this Calibration option:
 
-* iOS: 点击右上角的齿轮图标，在地图设置里找到 “中国内地坐标纠偏”。
-* Android: 点击右上角更多（竖排三个点）， 地图设置，找到 “中国内地坐标纠偏”。
+* iOS: Click the gear icon on the top right, and find the option of **Calibrate Coordinate (for Mainland China)**.
+* Android: Click the three-dots icon on the top right. In **Map** settings, Find **Calibrate Coordinate (for Mainland China)**.
 
-调整方法根据使用的地图服务而定，有时也会根据网络情况有所不同。所以我们强烈推荐您根据地图上显示的飞机位置来判断是否需要开启或关闭纠偏选项，有且只有一种纠偏状态是正确的。如果地图上显示的飞机位置不正确，则需要切换纠偏选项，然后重新观察飞机位置，直到显示正确。
+The method you choose depends on the map service you use, and sometimes, the network condition might also be taken into consideration. Therefore, we strongly recommend you to determine whether to turn on/ off the Coordinate Calibration option based on the aircraft's position shown on the map. Please be aware that ONLY ONE Calibration option is correct. If the aircraft's position  shown on the map is incorrect, you need to turn on the Coordinate Calibration option, and then re-observe the aircraft's position until it is displayed correctly.
 
-一般来说：
+In general:
 
-* 如果使用高德或苹果地图：需要开启纠偏
-* 如果在 iOS 设备上使用 Google 地图：关闭纠偏
-* 如果在 Android 设备上使用 Google 地图：都有可能，需要根据飞机位置来调整
+* If you are using Gaode or Apple Maps: Need to turn on the Coordinate Calibration option.
+* If you are using Google Map on an iOS device: Need to turn off the Coordinate Calibration option.
+* If you are using Google Map on an iOS device: Need to turn on/ off this option based on the aircraft's location.
 
 ---
 
