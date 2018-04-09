@@ -9,9 +9,9 @@
 
 ## Save/ Load Missions {#save-load}
 
-任务设置完成后，点击任务面板右上角的“保存”，便会弹出窗口。输入名称后，任务便会被保存在 app 内。
+After you finish relevant mission settings, please click **Save** at the top-right corner of your **Mission** panel. A popup window will then appear. After entering your name, the mission will be saved in Altizure app.
 
-打开任务列表，可以根据名称找到之前保存的任务。点击“加载”即可读取该任务。
+Open the list of missions that you have created. You can find the mission by its name. Click **Load** to load the task.
 
 ## Unlock/ Edit Missions {#unlock}
 
