@@ -22,18 +22,23 @@ If we regard the altitude of the takeoff point as 0, you can set the Flight Alti
 
 以起飞点为 0 的相对高度，可以设置为 10 米到 500 米之间。安全起见，使用者应当确保飞行高度高过周边所有障碍物。
 
-Please notice: The maximum flight altitude is also restricted to the **Maximum Flight Altitude** set in DJI Go. So, before setting the flight altitude, you can check or revise relevant settings in DJI Go.
+Note: The maximum flight altitude is also restricted to the **Maximum Flight Altitude** in DJI Go. So, before making flight plans, please check or revise relevant settings in DJI Go.
 
 注意：最大飞行高度也受到 DJI Go 里 “最大飞行高度” 的限制，因此在设置高度前，应当前往 DJI Go 里查看并修改飞机的高度限制。
 
 ### Camera {#camera}
 
+Different cameras have different angles of view (AOV). To ensure the quality and efficiency of a flight, users need to choose the right camera for their drones.
+
 不同型号的相机具有不同的视角范围，为保证拍摄质量和拍摄效率，使用者应当选择相应的相机型号。
+
+Note: Some cameras use different lens, e.g. Zenmuse X5S. The Camera List in Altizure app has only listed the default/ commonly-seen lenses. If you are using a lens with a different focal length, please choose the right camera and fill in relevant parameters.
 
 注意：某些相机可以使用不同的镜头，例如 Zenmuse X5S。选择列表里只列出了默认/常见的镜头焦距。如果使用的是不同焦距的镜头，请添加自定义相机并填入相关的参数。
 
-### Skip the Already-Finished Parts {#resume}
+### Resume Flights {#resume}
 
+You can change the takeoff point by using this function.
 这个选项可以用于更改航线的起点。
 
 在执行一些较大型任务时，常常出现一块电池飞不完，或者在中途因为异常原因中断的情况。在这种情况下，使用者可以通过调整 “跳过已完成部分” 来避免重复拍摄已经完成的部分航线。
