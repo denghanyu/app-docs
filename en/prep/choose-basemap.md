@@ -15,16 +15,24 @@ Flight Planning requires clear Satellite Map. As the data available for differen
 
 ## FAQ
 
-1. **Map is not displayed on the screen**
+1. **Map is not displayed on the screen/ No satellite imagery data**
+**地图没有卫星数据**
 
-    First, please check the internet connection. As Altizure app does not have 
+  First, please check the internet connection. As Altizure app does not have built-in maps, it will automatically cache map data. In this way, the app can load the cache data when there's no internet. Due to the limited space in cell phones, the app will only cache the lately-browse map data.
+
+  If the satellite map is still not displayed on screen when the internet connection is good, the possible reason might be that the map provider does not have the satellite data in this area. Normally, Apple map and Gaode map only provides the map data in cities and some suburb areas, but not in rural and remote areas. Google map covers the widest region and has more frequent updates. So, we recommend users to choose Google map when Apple map and Gaode map do not work.
     
     首先需要检查网络连接，因为 app 没有内置地图数据，需要自动从地图服务商下载并缓存后才能显示。没有网络时，地图会加载缓存的地图数据。缓存空间有限，只有最近浏览过的一部分才会被缓存。
 
     如果网络通畅但没有卫星数据，则可能是因为地图提供商没有提供这个区域的卫星图。一般苹果地图和高德地图只提供城市和部分郊区的数据，乡村和偏远地区的数据常有缺失。谷歌地图的数据最为全面，更新更频繁，建议在苹果和高德没有数据的时候尝试谷歌地图。
 
-2. **谷歌地图无法使用，打开后一片空白**
+2. **Google map is not working. It's blank.**
 
+  **谷歌地图无法使用，打开后一片空白**
+
+  Due to the legal restrictions in Mainland China, users cannot use Google map service. You cannot load Google map in Altizure app. Please try to find some other ways if you really want to use it.
+  Sorry, the tutorials on this issue is not available.
+  
     受我国的法规和网络限制，谷歌地图的服务器在国内无法直接连接，因此 app 内不能直接加载谷歌的地图数据。必要时请使用一些网络代理手段来连接。
 
     很抱歉，受法律限制，相关教程和服务我们不能直接提供。
