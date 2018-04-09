@@ -17,7 +17,12 @@ Drone is not a toy that can be easily controlled. Its powerful engine and high-s
 Without any app,
 1. **Takeoff** and **land** your drone only by using the remote controller.
 2. After landing your drone manually, **stop the motor** only by using the remote controller. (Push the up/down stick down to the bottom. Please don't push the right stick to the bottom left and left stick to the bottom right)
-3. . (You can observe the Signal Strength on the remote controller. This is more reliable than using app.)
+3. Know how to determine whether the drone is in Signal Lost. (You can observe the Signal Strength on the remote controller. This is more reliable than using app.)
+4. In Signal Lost, the possible operations that might be executed by drones.
+5. Cancel/ Execute the automatic Return-to-Home (RTH) function.
+6. When the drone is returning to the Home Point, how many sounds does the remote controller make?
+7. Set the Return-to-Home (RTH) Height.
+8. Whether the Control Stick is effective in different stage of RTH
 
 1. 不使用 app 只用遥控器，如何控制飞机起飞和降落？
 2. 不使用 app 控制飞机着陆后，如何只用遥控器让螺旋桨停转？（油门降到底，请勿使用内八停机）
@@ -41,4 +46,3 @@ Without any app,
 20. 如何只使用遥控收起和放下飞机的起落架？（适用于 Inspire 悟，Matrice 经纬 等机型）
 21. 飞机的飞行高度限制、距离限制是多少？如何调整？
 22. 为什么飞机的坐标在 app 的地图上会不准确？如何设置使其显示正确？
-
