@@ -1,22 +1,36 @@
 # Flight Safety
 
-## 电量低时飞机会自动返航吗？
+## When my aircraft runs out of battery, can it automatically return-to-home (RTH)?
 
-如果 Altizure app 里飞机连接状态正常，那么电量低于 30% 时屏幕上会发出警告，并询问你是否需要返航。这时你可以做出选择。如果你选择忽略，那么飞机会照常飞行，直到电量低于 20% 时，app 会自动向飞机发送返航命令，即 ”强制返航“。
+You can let your aircraft return home by pressing the RTH button on it remote controller, or the “Return Home” button in Altizure app.
 
-上述的前提条件是飞机必须能获得遥控信号。在无遥控信号的状态下，飞机的自主操作取决于固件的 “失控行为”，请参考下一条说明。
+If Altizure app is successfully connected to the drone, normally, it can monitor the battery level and send you an alert popup when the battery is lower than 30%. You can decide whether the drone needs to Return Home by clicking the buttons on the popup.
 
-## 丢失遥控信号后飞机会继续执行任务还是返航？
+If the battery is lower than 20%, Altizure app will automatically force the drone to return to its take-off location.
 
-默认情况下，我们将 “信号丢失后” 后的飞机行为设置为 “终止任务”，当飞机丢失遥控信号几秒后，固件能自动终止任务，然后飞机按固件里的 “失控行为” 自动操作（默认为返航，可在 DJI Go 中查看，不建议修改）。返航到近处时飞机会获得遥控信号，就可以短按遥控上的返航按钮来取消返航，返航等相关操作请参考大疆的说明书。
+However, please note that for the RTH action, it will not work if the aircraft is disconnected from its remote controller. For more information on Signal Loss, please refer to our next section.
 
-Altizure app 里也有提供选项，可以改为 “信号丢失后继续执行任务”。这是危险的设置，我们只希望经验丰富的使用者使用。这种情况下失控行为需要分类讨论：
+## When the drone loses its signal, will it continue its mission or return to home (RTH)?
 
-* 如果飞机电量足够，飞机会继续执行任务并自动拍摄，直到航线终点。如果任务完成后依然没有信号，飞机会触发固件的 “失控行为”（同上）。
-* 如果飞行中途电量低于 “低电量警告” （可在 DJI Go 中查看并调整，出厂设置一般是 30%），飞机不会退出任务并返航！！！这是因为目前为止，大疆没有在固件里提供 “低电量终止航线任务” 的功能， 而我们 app 内置的低电量返航只在有信号连接的条件下才能告知飞机返航。
-* 如果飞机中途电量低于 “严重低电量警告” （可在 DJI Go 中查看并调整，出厂设置一般是 10% - 15%），飞机可能会受固件要求，在中途强制降落！！！目前大疆还没有提供更改方法。
+Your aircraft will automatically cancel the flight mission if it loses connection for several seconds. Then it will perform Remote-Controller-Signal-Lost action, which is set to RTH by default. You can cancel RTH by pressing the RTH button on your remote controller after your aircraft is connected again. The drone will then hover in the sky and wait for your next command. For more details on RTH, please read the DJI guidelines carefully.
 
-失控后继续执行任务是实用但危险的操作，只有使用者在充分了解相关操作后才能采用。使用此设置设计航线时，请勿让飞机长时间处于失控状态，应当确保在航线折返回来后飞机能恢复信号连接，以便根据电量状态保护飞机安全。
+As said above, RTH is the default setting of Remote-Controller-Signal-Lost action. But it can be set to other values, e.g. land on the ground or hover in the sky after the signal is lost. To change this option, please go to the "Advanced Settings" section in DJI Go.
+
+Besides, for the "On Signal Loss" option in Altizure app, you can also set it as “Continue Mission”. In that case, your aircraft will not cancel the flight even when it loses signal from remote controller.
+
+However, this is a dangerous move because you may lose track of your drone if:
+
+1) "Continue Mission on Signal Loss" option is activated.
+
+2) The drone has been disconnected for a long time.
+
+3) Battery runs below the “Critically Low Battery Warning" level before the mission is completed (please find the "Critically Low Battery Warning” threshold in DJI Go).
+
+The above situations are dangerous because:
+
+* DJI firmware force aircraft to land if battery is below the "Critically Low Battery Warning" level. 
+* If a mission is neither completed nor canceled, DJI firmware will not activate RTH when the battery gets low. 
+* The aircraft cannot receive RTH signal from app or remote controller when it is disconnected.
 
 ## How can I export flight log/ flight record?
 
