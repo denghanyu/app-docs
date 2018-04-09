@@ -7,16 +7,10 @@ Drone is not a toy that can be easily controlled. Its powerful engine and high-s
 ## Before using Altizure App, you MUST be familiar with the following operations or functions:
 
 1. Read DJI's User Manual, and familiarize yourself with the functions and operations of the remote controller and each drone component.
-2. Be familiar with the UAV peculiarity and limitations. For instance, the drone may have unstable signal or even loses its signal when it moves outside a certain range (or when it flies outside the optimal transmission zone). Besides, users may not be able to stably control the drone when its signal is disturbed.
+2. Be familiar with the UAV peculiarity and limitations. For instance, the drone may have unstable signal or even loses its signal when it flies outside the optimal transmission zone. Besides, users may not be able to stably control the drone when its signal is disturbed.
 3. It's possible for all mobile devices and software (including DJI Go) to be unable to work properly. Users is recommended to learn how to control the drone without cell phone and image transmission, and they must be prepared with all kinds of situations, e.g. App Crash, app unable to connect to the drone, cell phone out of battery, etc.
 4. Put yourself in a hypothetical emergency situation, and find the key to solving the problems. You can try those operations in safe places or in DJI Simulator.(You can find the tutorials on DJI Simulator in this Guide. Please try to use it.)
 5. Be aware of the local policies and regulations. Please obtain the flight permission from relevant department before flying your drone.
-
-1. 熟读大疆的使用指南，了解遥控器、无人机上各个部件的作用和操作方法。
-2. 熟悉所用的无人机的特性与限制，例如：飞机在一定范围外可能出现信号不稳定，甚至丢失遥控信号的状况，飞机受到一定干扰时可能无法稳定控制。
-3. 任何移动设备及软件（包括 DJI Go）都有可能出现无法正常工作的时候。使用者应当学习并尝试在没有手机和图传的情况下控制飞机，以便应对各种复杂的情况。例如：app 崩溃，app 无法无法连接飞机，手机没电等各种情况。
-4. 假想各种紧急情况，准备应对方法。在模拟器或安全的地带试验这些操作。（本教程附有模拟器使用方法，请务必尝试在模拟器里联系）。
-5. 了解当地政策和法律法规，使用前取得当地管理部门的飞行许可。
 
 ## Things that you MUST know:
 

@@ -18,7 +18,7 @@ For more details, please check [Altizure Official Website](https://www.altizure.
 * Save and upload mission function.
 * Continued flights requiring more than one battery swap can resume correctly as Altizure app records flight status automatically.
 * Adjustable settings in overlap, tilt Angle, etc.
-* Possibility to choose between Return-to-Home and Continue the Mission in Signal Loss.
+* Possibility to choose between Return-to-Home and Continue the Mission in Signal Lost.
 * Function on automatically adjusting the flight routes according to the camera you choose.
 * Support for Apple Map (iOS) and Gaode Map (Android)
 * Support for Google Map (You need to be able to connect to Google.)
