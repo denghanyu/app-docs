@@ -56,7 +56,7 @@ Note: Do not support DJI aricrafts with a Display controller, e.g. Phantom 4 Pro
 | Inspire 1 / 2 | ✔︎ | ✔︎ |
 | M100, M600 series <sup>1</sup> | ✔︎ | ✔︎ |
 | A2 / A3 + LB2 <sup>1</sup> | ✔︎ | ✔︎ |
-| M200 系列 <sup>1</sup> | Testing | Testing  |
+| M200 series <sup>1</sup> | Testing | Testing  |
 | N3 + LB2 <sup>1</sup> | Testing  | Testing  |
 | Spark <sup>2</sup> | Not Supported Yet | Not Supported Yet |
 | Mavic Air <sup>3</sup> | Not Supported Yet | Not Supported Yet |
