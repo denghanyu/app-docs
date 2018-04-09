@@ -1,16 +1,16 @@
 # About Oblique Photography & Ortho
 
-## 设置里的相机倾斜角是什么？什么时候生效？如何设置？为什么不能设置成 0 度？
+## What's the Camera Angle setting? How it works? How to set it? Why I cannot set it to 0?
 
-为了拍出更好的三维效果，Altizure app 每个区域会设计 5 条线路（1 条正射 + 4 条倾斜），我们建议在有能力的情况下完成全部 5 条线路。
+To improve the quality of your 3D model, Altizure app will automatically generate 5 flight paths (1 vertical view + 4 oblique views). We complete all the five flight paths if possible.
 
-这 5 条线路中，线路 1 的相机角度为 0 度，也就是垂直向下，正对地面拍摄，这时倾斜角选项不起作用。线路 2 - 5 里，相机不再正对地面，而是稍微偏向地平线，倾斜向拍摄物体的侧面，这个角度就是倾斜角（以垂直方向为 0 度）。
+The first flight path takes photos from the top (i.e. Camera Angle=0). As for the other four paths, numbered from 2 to 5, the cameras are no longer facing down to the horizontal ground. Instead, they are slightly tilted upward, forming an angle with the vertical line. And this angle is called the Camera Angle. 
 
-app 里默认的设置已经能应对大部分场景，一般无需更改。
+As the default settings in Altizure App can cover most of the daily situations. Normally, you don't need to change those settings.
 
 ## Can I only take ortho photos?
 
-可以，如果你只需要拍正射，只需要飞完第一条线路，不必把倾斜角更改为 0。（请参考上一条）
+Yes. You can only take ortho photos by flying the first flight path. You don't need to change the Camera Angle to 0 here in this case. (Please refer to the answer to previous question.)
 
 ---
 
