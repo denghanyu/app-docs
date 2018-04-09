@@ -2,24 +2,34 @@
 
 ## Familiarize yourself with DJI UAV Operation Manual
 
-Drones are not a toy that can be learned and used
+Drone is not a toy that can be easily controlled. Its powerful engine and high-speed rotating propellers mean high risks in operation. So, for the safety of people and property, users must master their drone piloting skills before using the app.
+
 无人机不是轻易就能掌握的玩具，它强大的能量和高速转动的桨叶意味着极高的危险性。为了使用者及周边的人身和财产安全，使用无人机前，使用者必须熟练掌握大疆无人机的使用。
 
 ## Before using Altizure App, you MUST be familiar with the following operations or functions:
 
+1. Read DJI's User Manual, and familiarize yourself with the functions and operations of the remote controller and each drone component.
+2. Be familiar with the UAV peculiarity and limitations. For instance, the drone may have unstable signal or even loses its signal when it moves outside a certain range (or when it flies outside the optimal transmission zone). Besides, users may not be able to stably control the drone when its signal is disturbed.
+3. It's possible for all mobile devices and software (including DJI Go) to be unable to work properly. Users is recommended to learn how to control the drone without cell phone and image transmission, and they must be prepared with all kinds of situations, e.g. App Crash, app unable to connect to the drone, cell phone out of battery, etc.
+4. Put yourself in a hypothetical emergency situation, and find your answer to it. You can try those operations in safe places or in DJI Simulator.(You can find the tutorials on DJI Simulator in this Guide. Please try to use it.)
+5. Understand local policies and regulations. Please obtain the flight permission from relevant department before flying your drone.
+
 1. 熟读大疆的使用指南，了解遥控器、无人机上各个部件的作用和操作方法。
-2. 了熟知所用的无人机的特性与限制，例如：飞机在一定范围外可能出现信号不稳定，甚至丢失遥控信号的状况，飞机受到一定干扰时可能无法稳定控制。
+2. 熟悉所用的无人机的特性与限制，例如：飞机在一定范围外可能出现信号不稳定，甚至丢失遥控信号的状况，飞机受到一定干扰时可能无法稳定控制。
 3. 任何移动设备及软件（包括 DJI Go）都有可能出现无法正常工作的时候。使用者应当学习并尝试在没有手机和图传的情况下控制飞机，以便应对各种复杂的情况。例如：app 崩溃，app 无法无法连接飞机，手机没电等各种情况。
 4. 假想各种紧急情况，准备应对方法。在模拟器或安全的地带试验这些操作。（本教程附有模拟器使用方法，请务必尝试在模拟器里联系）。
 5. 了解当地政策和法律法规，使用前取得当地管理部门的飞行许可。
 
 ## Things that you MUST know:
 
-1. Without Altizure app, how to **takeoff** and **land your** drone only with the remote controller? 
-2. After you land your drone without using Altizure app, how to stop the propellers from spinning only with the remote controller?
-（油门降到底，请勿使用内八停机）
-3. How to without using Altizure app?
-不使用 app，如何判断飞机失去遥控信号？（观察遥控上的指示灯变化，比使用 app 更可靠）
+
+1. Without any app, **takeoff** and **land** your drone only by using the remote controller.
+2. After landing your drone without the help of any app, **stop the motor** only by using the remote controller. (Push the up/down stick down to the bottom. Please don't push the right stick to the bottom left and left stick to the bottom right)
+3. Without any app, . (You can observe the Signal Strength on the remote controller. This is more reliable than using app.)
+
+1. 不使用 app 只用遥控器，如何控制飞机起飞和降落？
+2. 不使用 app 控制飞机着陆后，如何只用遥控器让螺旋桨停转？（油门降到底，请勿使用内八停机）
+3. 不使用 app，如何判断飞机失去遥控信号？（观察遥控上的指示灯变化，比使用 app 更可靠）
 4. 丢失遥控信号后，飞机会执行什么样的操作？
 5. 不使用 app，如何让飞机自动返航，如何取消自动返航？
 6. 返航时，遥控器会发出哪几种声响？
