@@ -9,16 +9,11 @@ Before flying your drone, we recommend users to check the drone settings in DJI 
 * On the top-left corner of the screen, the System Status is **READY TO GO**.
 * GPS, Compass and IMU are all in normal settings.
 * Battery, Voltage, Battery Temperature are all in normal conditions.
-* RTH altitude is . RTH
-
-* 飞机顶栏显示绿色“可安全飞行”；
-* 定位、指南针、IMU 正常；
-* 电量、电压、电池温度正常；
-* 返航高度合适，失控行为为“返航”；
-* 相机和云台自检通过；
-* SD 卡容量充足；
-* 相机的曝光、快门、白平衡、对焦等设置适合当前任务；
-* 禁飞区范围；
+* RTH altitude is suitable for the mission. Set Signal Lost settings as RTH.
+* The camera and gimbal settings pass the automatic check.
+* SD card has enough storage/space.
+* The exposure, shutter, white balance, focus and other camera settings are suitable for the current mission.
+* No-fly zone.
 * ...
 
 ## Connecting the Remote Controller to Altizure App
