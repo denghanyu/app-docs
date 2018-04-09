@@ -2,8 +2,9 @@
 
 ## Flight Area & Flight Paths {#region}
 
-The green rectangle on the app map
-地图上绿色矩形为建模区域，灰白半透明多边形为飞机可能的飞行区域。使用者应当让飞行区域避开附近的建筑和高山，以及规定的禁飞区域。
+In Altizure app, the green rectangle represents the area that will be captured and built into a 3D model. The gray semi-transparent polygon indicates the region that the aircraft will possibly fly over in the 5 flight missions automatically set by the app. When setting the flight area, users should set the area in an region where there's no high-rise buildings and mountains. 
+Users should keep the flight area away from nearby buildings and mountains, as well as prescribed no-fly zones.
+地图上绿色矩形为建模区域，灰白半透明多边形为飞机可能的飞行区域。**使用者应当让飞行区域避开附近的建筑和高山**，以及规定的禁飞区域。
 
 地图上白色折线为飞机航线，两端各有一个白色箭头，表示航线的起点和终点。
 
@@ -15,6 +16,7 @@ The green rectangle on the app map
 
 ### Flight Height {#altitude}
 
+If we regard the altitude of the takeoff point as 0, you can set the Flight Height between 10m and 500m. 
 以起飞点为 0 的相对高度，可以设置为 10 米到 500 米之间。安全起见，使用者应当确保飞行高度高过周边所有障碍物。
 
 注意：最大飞行高度也受到 DJI Go 里 “最大飞行高度” 的限制，因此在设置高度前，应当前往 DJI Go 里查看并修改飞机的高度限制。
