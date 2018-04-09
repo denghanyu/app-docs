@@ -35,7 +35,6 @@ The above situations are dangerous because:
 ## How can I export flight log/ flight record?
 
 DJI Mobile SDK will record flight log when the user is using Altizure app. The flight log is useful for investigating accidents that occured when using Altizure app. 
-(P.S. occured 如果不加that，就变成被动时态了)
 
 ### Export from Android App
 
