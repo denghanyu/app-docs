@@ -40,14 +40,12 @@ How to use it:
 
 ### On Signal Lost {#signal-loss}
 
-Sometimes, the remote controller signal might be interrupted during flight mission. This option is to set aircraft behavior in Signal Lost. In order to meet the needs of different users, we have provided the following two options:
-有时飞机执行任务的过程中会出现信号中断的情况，这个选项就是用于设置飞机在中断信号后的行为。为了满足各类使用者的需要，我们提供了两种选项：
+Sometimes, the remote controller signal might be interrupted during flight mission. This option is to set the aircraft behavior in Signal Lost. In order to meet the needs of various users, we have provided the following two options:
 
-* Stop the mission when the drone loses its signal (default)
+* Quit the mission when the drone loses its signal (default)
 * Continue the mission when the drone loses its signal (dangerous, not recommended)
 
-
-如果使用者没有特殊的需求，应当将这个设置保持为默认选项，即“终止任务”。需要启用这个选项的任务请务必详细阅读这个选项下方的警告，以及我们在教程 [飞行安全](../faqs/safety.md) 里关于信号丢失或电量低时的说明。
+In normal situations, users should keep the setting as default, i.e. Quit the mission when the drone loses its signal. If you really want to enable this option, please read the warnings under this option and the illustrations of Signal Lost and Low Battery situations in [Flight Safety](../faqs/safety.md) carefully.
 
 ### Forward Overlap & Side Overlap {#overlap}
 
