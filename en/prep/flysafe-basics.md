@@ -44,7 +44,7 @@ Please understand:
 17. The situations in which your drone will choose to land at its current location instead of returning to its Home Point. The ways to avoid losing your drone during this operation. 
 18. During flights, the possible changes in battery voltage and the voltage conditions for safe flights.
 19. The weather conditions for flying drones and the potential dangers that you might encounter when flying in low temperature environment.
-21. Limitations on flight height and distance and ways to adjust the limitations.
+21. Limitations on flight altitude and radius limits, as well as the ways to adjust the limitations.
 22. The accuracy of your drone's GPS coordinates in Altizure app map and the ways to set it right.
 
 请熟悉：
