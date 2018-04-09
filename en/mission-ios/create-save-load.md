@@ -2,7 +2,7 @@
 
 ## Create a New Mission {#create}
 
-1. Click the **Mission** icon on the left side of your screen and open the **Mission** panel. 点
+1. Click the **Mission** icon on the left side of your screen and open the **Mission** panel.
 2. Click **"+"** icon, and create a new mission at the center of your screen. You can change the mission settings on **Mission** panel.
 
     ![Create Mission](../../assets/mission-create-ios.jpg)
