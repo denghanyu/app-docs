@@ -36,11 +36,12 @@ Note: Some cameras use different lens, e.g. Zenmuse X5S. The Camera List in Alt
 
 注意：某些相机可以使用不同的镜头，例如 Zenmuse X5S。选择列表里只列出了默认/常见的镜头焦距。如果使用的是不同焦距的镜头，请添加自定义相机并填入相关的参数。
 
-### Resume Flights {#resume}
+### Resume Mission {#resume}
 
 You can change the takeoff point by using this function.
 这个选项可以用于更改航线的起点。
 
+When mapping large areas, 
 在执行一些较大型任务时，常常出现一块电池飞不完，或者在中途因为异常原因中断的情况。在这种情况下，使用者可以通过调整 “跳过已完成部分” 来避免重复拍摄已经完成的部分航线。
 
 如何使用：注意观察航线上白色箭头的位置，然后调整这个选项。可以发现，进度条滑动时，表示航线起点的白色箭头会沿着航线前行方向跳动，略过的部分也会变得黯淡虚化。在下一次执行任务时，飞机就会前往调整后的起点，不再执行略过部分。
