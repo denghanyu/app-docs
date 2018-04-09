@@ -50,9 +50,9 @@ The Percentage in Resume setting
 
 在飞机执行任务期间，软件会随着任务的进行自动调整这个数值，同时地图上白色箭头也会随之跳动，这就表示软件已经将任务进度保存下来，以便下次继续执行。
 
-## 高级设置 {#advanced}
+## Advanced Settings {#advanced}
 
-### 信号丢失时行为 {#signal-loss}
+### On Signal Lost {#signal-loss}
 
 有时飞机执行任务的过程中会出现信号中断的情况，这个选项就是用于设置飞机在中断信号后的行为。为了满足各类使用者的需要，我们提供了两种选项：
 
@@ -61,10 +61,10 @@ The Percentage in Resume setting
 
 如果使用者没有特殊的需求，应当将这个设置保持为默认选项，即“终止任务”。需要启用这个选项的任务请务必详细阅读这个选项下方的警告，以及我们在教程 [飞行安全](../faqs/safety.md) 里关于信号丢失或电量低时的说明。
 
-### 航向重叠率、旁向重叠率 {#overlap}
+### Forward Overlap & Side Overlap {#overlap}
 
 航向重叠率表示飞机在沿航线飞行时，拍摄的连续两张照片之间的重叠比例。旁向重叠率表示飞机在两条相邻平行航线上拍摄的照片的重叠比例。
 
 ---
 
-该文档最后修改于 {{ file.mtime }}
+Last modified at {{ file.mtime }}

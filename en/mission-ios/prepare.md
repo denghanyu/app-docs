@@ -35,11 +35,11 @@ Altizure app 的正上方的状态栏会显示飞机的连接状态为“连接�
 
 将任务各项参数设置完成并保存后，点击设置面板的右上角的 “就绪”，开始启动任务准备过程。这个过程中，app 会对飞机作出一系列检查和自动设置，包括
 
-1. 安全检查
-2. 云台设置
-3. 相机设置
+1. Safety check
+2. Camera settings
+3. Camera settings 相机设置
 4. 上传任务
 
 ---
 
-该文档最后修改于 {{ file.mtime }}
+Last modified at {{ file.mtime }}
