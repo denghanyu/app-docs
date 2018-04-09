@@ -22,10 +22,10 @@ Drone is not a toy that can be easily controlled. Its powerful engine and high-s
 
 ## Things that you MUST know:
 
-
-1. Without any app, **takeoff** and **land** your drone only by using the remote controller.
-2. After landing your drone without the help of any app, **stop the motor** only by using the remote controller. (Push the up/down stick down to the bottom. Please don't push the right stick to the bottom left and left stick to the bottom right)
-3. Without any app, . (You can observe the Signal Strength on the remote controller. This is more reliable than using app.)
+Without any app,
+1. **Takeoff** and **land** your drone only by using the remote controller.
+2. After landing your drone manually, **stop the motor** only by using the remote controller. (Push the up/down stick down to the bottom. Please don't push the right stick to the bottom left and left stick to the bottom right)
+3. . (You can observe the Signal Strength on the remote controller. This is more reliable than using app.)
 
 1. 不使用 app 只用遥控器，如何控制飞机起飞和降落？
 2. 不使用 app 控制飞机着陆后，如何只用遥控器让螺旋桨停转？（油门降到底，请勿使用内八停机）
