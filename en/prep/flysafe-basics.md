@@ -14,25 +14,14 @@ Drone is not a toy that can be easily controlled. Its powerful engine and high-s
 
 ## Things that you MUST know:
 
-Without any app,
-1. **Takeoff** and **land** your drone only by using the remote controller.
-2. After landing your drone manually, **stop the motor** only by using the remote controller. (Push the up/down stick down to the bottom. Please don't push the right stick to the bottom left and left stick to the bottom right)
-3. Know how to determine whether the drone is in Signal Lost. (You can observe the Status LED on the remote controller. This is more reliable than using app.)
-4. Cancel/ Execute the automatic Return-to-Home (RTH) operation.
-20. How to lower/raise the landing gear only with the remote controller (Inspire series, Matrice series, etc.).
-
-请了解，不使用 app 时，
-1. 只用遥控器，如何控制飞机起飞和降落？
-2. 控制飞机着陆后，如何只用遥控器让螺旋桨停转？（油门降到底，请勿使用内八停机）
-3. 如何判断飞机失去遥控信号？（观察遥控上的指示灯变化，比使用 app 更可靠）
-4. 如何让飞机自动返航，如何取消自动返航？
-20. 如何只使用遥控收起和放下飞机的起落架？（适用于 Inspire 悟，Matrice 经纬 等机型）
-
-Please understand:
-5. The possible operations that might be executed by drones in Signal Lost.
+1. Without any app, how to **takeoff** and **land** your drone only by using the remote controller?
+2. After landing your drone without any app, how to **stop the motor** only by using the remote controller? (In this case, please push the up/down stick down to the bottom. Please don't push the right stick to the bottom left and left stick to the bottom right)
+3. Without any app, how to determine whether the drone is in Signal Lost? (You can observe the Status LED on the remote controller. This is more reliable than using app.)
+4. Without any app, how to **Cancel/ Execute** the automatic **Return-to-Home (RTH)** operation?
+5. What are the possible operations that might be executed by drones in Signal Lost?
 6. When the drone is returning to Home Point, how many sounds does the remote controller make?
-7. The ways to set the Return-to-Home (RTH) Height.
-8. Drone operations and the Control Stick operations in each phase of flight.
+7. How to set the Return-to-Home (RTH) Height?
+8. What are the drone operations and the Control Stick operations in each phase of flight?
 9. During the RTH phase, the aircraft needs to climb to a certain altitude before safely returning to its last recorded Home Point at this altitude. Please be aware of the possible consequences that might be caused by operating the up/down stick.
 10. Landing accuracy (i.e. the distance between the landing point and the takeoff point).
 11. The meaning of Home Point and ways to set it. The situations in which the drone can automatically set the Home Point location and the place of the auto-set Home Point.
@@ -44,6 +33,7 @@ Please understand:
 17. The situations in which your drone will choose to land at its current location instead of returning to its Home Point. The ways to avoid losing your drone during this operation. 
 18. During flights, the possible changes in battery voltage and the voltage conditions for safe flights.
 19. The weather conditions for flying drones and the potential dangers that you might encounter when flying in low temperature environment.
+20. Without any app, how to lower/raise the landing gear only with the remote controller (Inspire series, Matrice series, etc.).
 21. Limitations on flight altitude and radius limits, as well as the ways to adjust the limitations.
 22. The accuracy of your drone's GPS coordinates in Altizure app map and the ways to set it right.
 
