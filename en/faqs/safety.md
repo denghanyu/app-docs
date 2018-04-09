@@ -20,7 +20,8 @@ Altizure app 里也有提供选项，可以改为 “信号丢失后继续执行
 
 ## How can I export flight log/ flight record?
 
-DJI Mobile SDK will record flight log when the user is using Altizure app. The flight log is useful for investigating accidents that occured when using Altizure app. (P.S. occured 如果不加that，就变成被动时态了)
+DJI Mobile SDK will record flight log when the user is using Altizure app. The flight log is useful for investigating accidents that occured when using Altizure app. 
+(P.S. occured 如果不加that，就变成被动时态了)
 
 ### Export from Android App
 
@@ -30,15 +31,14 @@ In Android, log files are stored in directory /DJI/SDK_logs, you can export it b
 
 Here are the steps to export the flight log:
 
-1. For Windows users, please [download and install iTunes](https://www.apple.com/itunes/download/) on your computer, connect your iPhone/iPad to your computer. (macOS )
+1. For Windows users, please [download and install iTunes](https://www.apple.com/itunes/download/) on your computer. Connect your iPhone/iPad to your computer. (For macOS users, iTunes is its default application.)
 
-在 Windows 上 [下载并安装 iTunes](https://www.apple.com/cn/itunes) \(macOS 自带，不必安装\)，启动后，将 iPhone 或 iPad 与电脑连接。
-2. 在 iTunes 左上方点击设备按钮
-    ![设备入口](../../assets/itunes-device.png)
-3. 进入 "Apps" 页面，滑动至 "文件共享" 部分，选中 "Altizure" 一栏
-    ![App 文件共享](../../assets/itunes-apps.jpg)
-4. 点击选择 "SDK\_logs"，滑至页面底部，找到并点击 "储存至..." 按钮（或直接拖拽文件夹到桌面
-    ![储存至](../../assets/itunes-save_to.png)
+2. Open iTunes and click the device icon
+  ![device-icon](../../assets/itunes-device.png)
+3. Go to **apps** page, and scroll down to **File Sharing** section. Click **Altizure** app
+  ![App Sharing](../../assets/iTunes-apps-eng.jpg)
+4. Select **SDK_logs**, and scroll down to click **Save to...** button (or drag it to your desktop)
+  ![Save to](../../assets/itunes-save_to.png)
 
 ---
 
