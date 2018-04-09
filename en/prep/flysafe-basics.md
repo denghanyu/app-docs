@@ -20,6 +20,12 @@ Without any app,
 3. Know how to determine whether the drone is in Signal Lost. (You can observe the Status LED on the remote controller. This is more reliable than using app.)
 4. Cancel/ Execute the automatic Return-to-Home (RTH) operation.
 
+请了解，不使用 app 时，
+1. 只用遥控器，如何控制飞机起飞和降落？
+2. 控制飞机着陆后，如何只用遥控器让螺旋桨停转？（油门降到底，请勿使用内八停机）
+3. 如何判断飞机失去遥控信号？（观察遥控上的指示灯变化，比使用 app 更可靠）
+4. 如何让飞机自动返航，如何取消自动返航？
+
 Please understand:
 5. The possible operations that might be executed by drones in Signal Lost.
 6. When the drone is returning to the Home Point, how many sounds does the remote controller make?
@@ -31,13 +37,10 @@ Please understand:
 12. The GPS Signal Strength for safe flights.
 13. The ways to calibrate the compass.
 14. Difference between various flight modes on the remote controller (e.g. P-A-F, P-A-S, Sport).
-15. How to navigate your drone in danger or warning status according to the Status LED.
+15. How to determine that your drone is in Danger or Warning Status according to the Aircraft Status Indicator on the drone.
+16. Familiarize yourself with various Low-Battery warnings and the possible drone operations when these warnings are triggered.
+17. How to avoid
 
-请了解，不使用 app 时，
-1. 只用遥控器，如何控制飞机起飞和降落？
-2. 控制飞机着陆后，如何只用遥控器让螺旋桨停转？（油门降到底，请勿使用内八停机）
-3. 如何判断飞机失去遥控信号？（观察遥控上的指示灯变化，比使用 app 更可靠）
-4. 如何让飞机自动返航，如何取消自动返航？
 
 请熟悉：
 5. 丢失遥控信号后，飞机会执行什么样的操作？
