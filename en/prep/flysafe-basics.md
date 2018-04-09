@@ -30,9 +30,9 @@ Without any app,
 
 Please understand:
 5. The possible operations that might be executed by drones in Signal Lost.
-6. When the drone is returning to the Home Point, how many sounds does the remote controller make?
+6. When the drone is returning to Home Point, how many sounds does the remote controller make?
 7. The ways to set the Return-to-Home (RTH) Height.
-8. Drone operations and the Control Stick in each phase of flight.
+8. Drone operations and the Control Stick operations in each phase of flight.
 9. During the RTH phase, the aircraft needs to climb to a certain altitude before safely returning to its last recorded Home Point at this altitude. Please be aware of the possible consequences that might be caused by operating the up/down stick.
 10. Landing accuracy (i.e. the distance between the landing point and the takeoff point).
 11. The meaning of Home Point and ways to set it. The situations in which the drone can automatically set the Home Point location and the place of the auto-set Home Point.
@@ -41,7 +41,7 @@ Please understand:
 14. Difference between various flight modes on the remote controller (e.g. P-A-F, P-A-S, Sport).
 15. How to determine that your drone is in Danger or Warning Status according to the Aircraft Status Indicator on the drone.
 16. Familiarize yourself with various Low-Battery warnings and the possible drone operations when these warnings are triggered.
-17. The situations in which your drone will choose to land at its current location instead of returning to its Home Point. The ways to avoid losing your drone during this operation. 如何避免飞机因为原地下降而飞丢？
+17. The situations in which your drone will choose to land at its current location instead of returning to its Home Point. The ways to avoid losing your drone during this operation. 
 18. During flights, the possible changes in battery voltage and the voltage conditions for safe flights.
 19. The weather conditions for flying drones and the potential dangers that you might encounter when flying in low temperature environment.
 21. Limitations on flight height and distance and ways to adjust the limitations.
