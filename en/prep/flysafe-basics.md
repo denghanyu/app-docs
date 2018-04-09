@@ -19,12 +19,14 @@ Without any app,
 2. After landing your drone manually, **stop the motor** only by using the remote controller. (Push the up/down stick down to the bottom. Please don't push the right stick to the bottom left and left stick to the bottom right)
 3. Know how to determine whether the drone is in Signal Lost. (You can observe the Status LED on the remote controller. This is more reliable than using app.)
 4. Cancel/ Execute the automatic Return-to-Home (RTH) operation.
+20. How to lower/raise the landing gear only with the remote controller (Inspire series, Matrice series, etc.).
 
 请了解，不使用 app 时，
 1. 只用遥控器，如何控制飞机起飞和降落？
 2. 控制飞机着陆后，如何只用遥控器让螺旋桨停转？（油门降到底，请勿使用内八停机）
 3. 如何判断飞机失去遥控信号？（观察遥控上的指示灯变化，比使用 app 更可靠）
 4. 如何让飞机自动返航，如何取消自动返航？
+20. 如何只使用遥控收起和放下飞机的起落架？（适用于 Inspire 悟，Matrice 经纬 等机型）
 
 Please understand:
 5. The possible operations that might be executed by drones in Signal Lost.
@@ -39,8 +41,11 @@ Please understand:
 14. Difference between various flight modes on the remote controller (e.g. P-A-F, P-A-S, Sport).
 15. How to determine that your drone is in Danger or Warning Status according to the Aircraft Status Indicator on the drone.
 16. Familiarize yourself with various Low-Battery warnings and the possible drone operations when these warnings are triggered.
-17. How to avoid
-
+17. The situations in which your drone will choose to land at its current location instead of returning to its Home Point. The ways to avoid losing your drone during this operation. 如何避免飞机因为原地下降而飞丢？
+18. During flights, the possible changes in battery voltage and the voltage conditions for safe flights.
+19. The weather conditions for flying drones and the potential dangers that you might encounter when flying in low temperature environment.
+21. Limitations on flight height and distance and ways to adjust the limitations.
+22. The accuracy of your drone's GPS coordinates in Altizure app map and the ways to set it right.
 
 请熟悉：
 5. 丢失遥控信号后，飞机会执行什么样的操作？
@@ -58,6 +63,5 @@ Please understand:
 17. 在哪种情况下，飞机自动原地下降而不选择返航？如何避免飞机因为原地下降而飞丢？
 18. 飞行过程中，飞机电池的电压会有怎样的变化？电压需要达到多少才能稳定飞行？
 19. 飞机能在怎样的天气下工作？冬季低温飞行时飞机可能会遇到怎样的危险？
-20. 如何只使用遥控收起和放下飞机的起落架？（适用于 Inspire 悟，Matrice 经纬 等机型）
 21. 飞机的飞行高度限制、距离限制是多少？如何调整？
 22. 为什么飞机的坐标在 app 的地图上会不准确？如何设置使其显示正确？
