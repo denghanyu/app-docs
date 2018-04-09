@@ -41,7 +41,9 @@ Note: Some cameras use different lens, e.g. Zenmuse X5S. The Camera List in Alt
 You can change the takeoff point by using this function.
 这个选项可以用于更改航线的起点。
 
-When mapping large areas, 
+When mapping large areas, a mission requires more than one battery or the mission is interrupted midway due to an abnormal cause.
+The Percentage in Resume setting
+
 在执行一些较大型任务时，常常出现一块电池飞不完，或者在中途因为异常原因中断的情况。在这种情况下，使用者可以通过调整 “跳过已完成部分” 来避免重复拍摄已经完成的部分航线。
 
 如何使用：注意观察航线上白色箭头的位置，然后调整这个选项。可以发现，进度条滑动时，表示航线起点的白色箭头会沿着航线前行方向跳动，略过的部分也会变得黯淡虚化。在下一次执行任务时，飞机就会前往调整后的起点，不再执行略过部分。
