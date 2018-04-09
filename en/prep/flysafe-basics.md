@@ -17,7 +17,7 @@ Drone is not a toy that can be easily controlled. Its powerful engine and high-s
 1. Without any app, how to takeoff/ land your drone only by using the remote controller?
 2. After landing your drone without any app, how to stop the motor only by using the remote controller? (In this case, please push the up/down stick down to the bottom. Please don't push the right stick to the bottom left and left stick to the bottom right)
 3. Without any app, how to determine whether the drone is in Signal Lost? (You can observe the Status LED on the remote controller. This is more reliable than using app.)
-4. Without any app, how to Cancel/ Execute the automatic Return-to-Home (RTH) operation?
+4. Without any app, how to cancel/ execute the automatic Return-to-Home (RTH) operation?
 5. What are the possible operations that might be executed by drones in Signal Lost?
 6. When the drone is returning to Home Point, how many sounds does the remote controller make?
 7. How to set the Return-to-Home (RTH) Height?
