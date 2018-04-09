@@ -16,13 +16,13 @@ Before flying your drone, we recommend users to check the drone settings in DJI 
 
 ## Connecting the Remote Controller to Altizure App
 
-Altizure app 的正上方的状态栏会显示飞机的连接状态为“连接断开”或“已连接”，右下角的图传会在飞机连接后立即启用并显示画面。如果飞机没有正常连接，请尝试重新插拔一次 USB 线。
+In Altizure app, the status bar on the top will show the connection status of the aircraft as "disconnected" or "connected". Image transmission on the bottom-right will be activated and displayed immediately after your aircraft is connected. If the aircraft is not connected properly, please try replugging the USB.
 
-连接完成后，再次检查飞机在 Altizure app 中的状态显示，确认：
+After your drone is successful connected, please check the drone status in Altizure app again, and confirm that:
 
-* 顶栏没有出错提示；
-* 顶栏 GPS 状态、电池电量和电压状态正常，右下角图传显示正常；
-* 飞机在地图上显示的位置（蓝色三角形标示）符合当前的飞机位置，否则需要调整[地图纠偏设置](../prep/choose-basemap.md)
+* There's no error message on the top bar.
+* GPS status, battery level and battery voltage on the top bar are normal. Image transmission on the bottom-right is also displayed normally .
+* The aircraft's location on the map (representing in blue triangle) can show the current position of your drone. Or otherwise, you need to adjust the [Map Calibration Settings](../prep/choose-basemap.md).
 
 ## Start to Set the Settings in Altizure App
 
