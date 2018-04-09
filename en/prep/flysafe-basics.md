@@ -17,18 +17,30 @@ Drone is not a toy that can be easily controlled. Its powerful engine and high-s
 Without any app,
 1. **Takeoff** and **land** your drone only by using the remote controller.
 2. After landing your drone manually, **stop the motor** only by using the remote controller. (Push the up/down stick down to the bottom. Please don't push the right stick to the bottom left and left stick to the bottom right)
-3. Know how to determine whether the drone is in Signal Lost. (You can observe the Signal Strength on the remote controller. This is more reliable than using app.)
-4. In Signal Lost, the possible operations that might be executed by drones.
-5. Cancel/ Execute the automatic Return-to-Home (RTH) function.
-6. When the drone is returning to the Home Point, how many sounds does the remote controller make?
-7. Set the Return-to-Home (RTH) Height.
-8. Whether the Control Stick is effective in different stage of RTH
+3. Know how to determine whether the drone is in Signal Lost. (You can observe the Status LED on the remote controller. This is more reliable than using app.)
+4. Cancel/ Execute the automatic Return-to-Home (RTH) operation.
 
-1. 不使用 app 只用遥控器，如何控制飞机起飞和降落？
-2. 不使用 app 控制飞机着陆后，如何只用遥控器让螺旋桨停转？（油门降到底，请勿使用内八停机）
-3. 不使用 app，如何判断飞机失去遥控信号？（观察遥控上的指示灯变化，比使用 app 更可靠）
-4. 丢失遥控信号后，飞机会执行什么样的操作？
-5. 不使用 app，如何让飞机自动返航，如何取消自动返航？
+Please understand:
+5. The possible operations that might be executed by drones in Signal Lost.
+6. When the drone is returning to the Home Point, how many sounds does the remote controller make?
+7. The ways to set the Return-to-Home (RTH) Height.
+8. Drone operations and the Control Stick in each phase of flight.
+9. During the RTH phase, the aircraft needs to climb to a certain altitude before safely returning to its last recorded Home Point at this altitude. Please be aware of the possible consequences that might be caused by operating the up/down stick.
+10. Landing accuracy (i.e. the distance between the landing point and the takeoff point).
+11. The meaning of Home Point and ways to set it. The situations in which the drone can automatically set the Home Point location and the place of the auto-set Home Point.
+12. The GPS Signal Strength for safe flights.
+13. The ways to calibrate the compass.
+14. Difference between various flight modes on the remote controller (e.g. P-A-F, P-A-S, Sport).
+15. How to navigate your drone in danger or warning status according to the Status LED.
+
+请了解，不使用 app 时，
+1. 只用遥控器，如何控制飞机起飞和降落？
+2. 控制飞机着陆后，如何只用遥控器让螺旋桨停转？（油门降到底，请勿使用内八停机）
+3. 如何判断飞机失去遥控信号？（观察遥控上的指示灯变化，比使用 app 更可靠）
+4. 如何让飞机自动返航，如何取消自动返航？
+
+请熟悉：
+5. 丢失遥控信号后，飞机会执行什么样的操作？
 6. 返航时，遥控器会发出哪几种声响？
 7. 什么是返航高度，如何设置？
 8. 返航的各个阶段，遥控器的的摇杆是否有效？可以做哪些操作？
