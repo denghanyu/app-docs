@@ -2,18 +2,20 @@
 
 ## Create a New Mission {#create}
 
-1. Click the **Mission** icon on the left side of your screen and open the **Mission** panel.
+1. Click **Mission** icon on the left side of your screen and open **Mission** panel.
 2. Click **"+"** icon, and create a new mission at the center of your screen. You can change the mission settings on **Mission** panel.
 
     ![Create Mission](../../assets/mission-create-ios.jpg)
 
 ## Save/ Load Missions {#save-load}
 
-After you finish relevant mission settings, please click **Save** at the top-right corner of your **Mission** panel. A popup window will then appear. After entering your name, the mission will be saved in Altizure app.
+After you finish relevant mission settings, please click **Save** at the top-right corner of your **Mission** panel. A popup window will then appear. After entering the mission name, you can save the mission in Altizure app.
 
-Open the list of missions that you have created. You can find the mission by its name. Click **Load** to load the task.
+Open the Mission List. You can find a mission by its name. Click **Load** to load the task.
 
 ## Unlock/ Edit Missions {#unlock}
+
+After the mission is saved or loaded, you will find that the mission is locked for editing. This is to prevent the misoperations by the user 
 
 任务保存后，或刚加载出来时，任务设置处于锁定状态，防止误操作导致任务区域和各项参数被修改。
 
