@@ -4,8 +4,6 @@
 
 Before flying your drone, we recommend users to check the drone settings in DJI Go. Please make sure that the drone will operate in good conditions. The settings include but are not limited to:
 
-我们建议在使用飞机之前，先在大疆官方的 DJI Go app 中检查飞机的各项参数，确保飞机的状态适合执行任务。需要确认的状态包括但不限于：
-
 * On the top-left corner of the screen, the System Status is **READY TO GO**.
 * GPS, Compass and IMU are all in normal settings.
 * Battery, Voltage, Battery Temperature are all in normal conditions.
