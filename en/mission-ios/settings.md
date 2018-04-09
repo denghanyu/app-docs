@@ -30,11 +30,9 @@ You can change the takeoff point by using this function.
 
 When mapping large areas, a mission often requires more than one battery and somtimes, the mission might be interrupted midway due to unpredictable situations. Under such circumstances, users can skip the parts that have already captured by adjusting the Percentage in Resume setting.
 
-How to use it: Observe the location of the white arrow on the flight route, and adust this option. While you might discover that while 
+How to use it: Observe the location of the white arrow on the flight route, and adust this option. When sliding the progress bar, you might discover that the white arrow representing the starting point of the flight path will blink and move along the route as you slide. The parts that you have already skipped will become bleak. This shows, when you execute the same mission next time, the aircraft will go to the adjusted starting point and skipped the parts that you have already captured.
 
-如何使用：注意观察航线上白色箭头的位置，然后调整这个选项。可以发现，进度条滑动时，表示航线起点的白色箭头会沿着航线前行方向跳动，略过的部分也会变得黯淡虚化。在下一次执行任务时，飞机就会前往调整后的起点，不再执行略过部分。
-
-在飞机执行任务期间，软件会随着任务的进行自动调整这个数值，同时地图上白色箭头也会随之跳动，这就表示软件已经将任务进度保存下来，以便下次继续执行。
+During the mission, the software will automatically adjust this value in accordance with the mission progress. The white arrow on the map will also blink as the mission continues. This means that Altizure app has saved the progress of the task so that the mission can be continued from the place where it stopped next time.
 
 ## Advanced Settings {#advanced}
 
