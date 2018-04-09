@@ -4,7 +4,6 @@
 
 1. Click the **Mission** icon on the left side of your screen and open the **Mission** panel. 点
 2. Click **"+"** icon, and create a new mission at the center of your screen. You can change the mission settings on **Mission** panel.
- 图标，在地图中心创建新任务，同时任务面板上会显示一些设置项
 
     ![Create Mission](../../assets/mission-create-ios.jpg)
 
