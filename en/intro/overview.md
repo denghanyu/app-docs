@@ -5,7 +5,7 @@
 For more details, please check [Altizure Official Website](https://www.altizure.com/mobile):
 
 * iOS: Search "Altizure" in AppStore. Download and install. [Click here to download from AppStore](https://itunes.apple.com/app/id1018791616?mt=8). Or, your can download it by scanning the QR code. (You are recommended to use the smart phone camera in iOS 11):
-        ![AppStore 二维码](../../assets/app-download-ios-appstore.png)
+        ![AppStore QR code](../../assets/app-download-ios-appstore.png)
         
 * Android: You can download it from Android App Store (e.g. Google Play) by searching "Altizure".
 
