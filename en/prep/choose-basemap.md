@@ -1,6 +1,6 @@
 # Choose the Right Map
 
-Flight Planning requires clear Satellite Map. As the data available for different map providers varies, users can choose the map in Altizure app based on their on needs.
+Flight Planning requires clear Satellite Map. As the data available for different map providers varies, users can choose the map in Altizure app based on their own needs.
 
 在地图上规划航线需要有清晰的卫星地图。由于地图服务商提供的数据各有不同，app 内置了多种地图以供选择。
 
