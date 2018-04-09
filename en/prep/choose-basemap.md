@@ -31,20 +31,13 @@ Flight Planning requires clear Satellite Map. As the data available for differen
   **谷歌地图无法使用，打开后一片空白**
 
   Due to the legal restrictions, users cannot use Google map service in Mainland China. If you really want to use the Google service, please try to find some other ways.
-  Sorry, tutorial on this issue is not available.
+  
+  We are sorry that tutorials on this issue are not available because of the above reason.
   
     受我国的法规和网络限制，谷歌地图的服务器在国内无法直接连接，因此 app 内不能直接加载谷歌的地图数据。必要时请使用一些网络代理手段来连接。
 
     很抱歉，受法律限制，相关教程和服务我们不能直接提供。
 
-3. **Installation/ upgrade prompts of Google service after choosing Google map on Android. The map is blank.**
-  **Android 设备上选择谷歌地图后，提示需要安装/升级谷歌服务，地图一片空白**
-
-    这是由于 Android 设备上的谷歌地图需要使用谷歌服务套件。国内手机厂商很少会内置谷歌服务套件，所以使用者需要自行安装谷歌服务框架（Google Services Framework）与谷歌服务套件（Google Play services）。
-
-    安装方法可能会根据手机型号有所不同，某些安装方法可能对手机产生不理影响。请参考网络媒体或手机品牌的社区里的教程谨慎安装。例如:
-
-    * [ifanr: How to enjoy the full service of Google?](http://www.ifanr.com/app/693456)
 
 ---
 
