@@ -2,7 +2,7 @@
 
 ## Flight Area & Flight Paths {#region}
 
-In Altizure app, the green rectangle represents the area that will be captured and built into a 3D model. The gray semi-transparent polygon indicates the region that the aircraft will possibly fly over in the 5 flight missions automatically set by the app. When setting the flight area, users should set the area as possibly as they can in an region where there's no high-rise buildings or mountains, as well as No-Fly Zones. 
+In Altizure app, the green rectangle represents the area that will be captured and built into a 3D model. The gray semi-transparent polygon indicates the region that the aircraft will possibly fly over in the 5 flight missions automatically set by the app. When setting the flight area, users should keep it away from high-rise buildings or mountains, as well as No-Fly Zones. 
 
 地图上绿色矩形为建模区域，灰白半透明多边形为飞机可能的飞行区域。**使用者应尽可能地让飞行区域避开附近的建筑和高山**，以及规定的禁飞区域。
 

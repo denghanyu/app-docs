@@ -33,7 +33,9 @@ Altizure app 的正上方的状态栏会显示飞机的连接状态为“连接�
 
 ## Start to Set the Settings in Altizure App
 
-将任务各项参数设置完成并保存后，点击设置面板的右上角的 “就绪”，开始启动任务准备过程。这个过程中，app 会对飞机作出一系列检查和自动设置，包括
+Set all parameters of the task and save it. Click **Ready** on the top-right corner of the **Mission** panel, and start the task preparation process. During this phase, Altizure app will make a series of inspections and automatic set the settings for the aircraft, including
+
+将任务各项参数设置完成并保存后，点击设置面板的右上角的 “就绪”，开始启动任务准备过程。这个过程中，app 会对飞机作出一系列检查并进行一些自动设置，包括
 
 1. Safety settings
 2. Gimbal settings
