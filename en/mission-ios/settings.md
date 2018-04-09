@@ -22,7 +22,7 @@ If we regard the altitude of the takeoff point as 0, you can set the Flight Alti
 
 以起飞点为 0 的相对高度，可以设置为 10 米到 500 米之间。安全起见，使用者应当确保飞行高度高过周边所有障碍物。
 
-Please notice: The maximum flight altitude is restricted to the **Maximum Flight Altitude** set in DJI Go. So, before setting the flight altitude, you can check or revise relevant settings in DJI Go.
+Please notice: The maximum flight altitude is also restricted to the **Maximum Flight Altitude** set in DJI Go. So, before setting the flight altitude, you can check or revise relevant settings in DJI Go.
 
 注意：最大飞行高度也受到 DJI Go 里 “最大飞行高度” 的限制，因此在设置高度前，应当前往 DJI Go 里查看并修改飞机的高度限制。
 
