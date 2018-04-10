@@ -25,7 +25,7 @@ Drone is not a toy that can be easily controlled. Its powerful engine and high-s
 8. What are the drone operations and the Control Stick operations in each phase of flight?
 9. During the RTH phase, the aircraft needs to climb to a certain altitude before safely returning to its last recorded Home Point at this altitude. Please be aware of the possible consequences that might be caused by operating the up/down stick.
 10. What's the landing accuracy (i.e. the distance between the landing point and the takeoff point)?
-11. What does Home Point mean and how to set it? When can the drone automatically set its Home Point location, and what's the location?
+11. What does Home Point mean and how to set it? When can the drone automatically set its Home Point location, and where's the location?
 12. What's the GPS Signal Strength for safe flights?
 13. How to calibrate the compass?
 14. What's the difference between various flight modes on the remote controller (e.g. P-A-F, P-A-S, Sport)?
