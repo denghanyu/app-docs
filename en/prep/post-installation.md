@@ -2,9 +2,9 @@
 
 ## Activate Your App by Connecting to the Internet {#activate}
 
-If you are using Altizure app for the first time, please make sure that your phone is connected to the Internet. This is because that before Altizure app is connected to the drone, DJI will check Altizure's API key and activate Altizure app on your device. If activation fails, there will be a popup on the interface, indicating that the activation failed. But if there's no popup, it means the activation is successful.
+For Altizure app first time users, before Altizure app is connected to the drone, DJI will check Altizure's API key and activate Altizure app on your device. So, please make sure that your phone is connected to the Internet. If the activation fails, there will be a popup on the interface, indicating that the activation failed. But if there's no popup, it means the activation is successful.
 
-When using Phantom 3 Standard or Phantom 3 4K, please DO NOT connect to the drone's Wi-Fi if you are a first time user in Altizure app. This is because the drone's Wi-Fi is not connected to the Internet, and the activation may fail.
+When using Phantom 3 Standard or Phantom 3 4K, please DO NOT connect to the drone's Wi-Fi if you are using Altizure app for the first time. This is because the drone's Wi-Fi is not connected to the Internet, and the activation may fail.
 
 After a successful activation, you can use our app offline in the future.
  
