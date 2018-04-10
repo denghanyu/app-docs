@@ -30,7 +30,7 @@ Drone is not a toy that can be easily controlled. Its powerful engine and high-s
 13. How to calibrate the compass?
 14. What's the difference between various flight modes on the remote controller (e.g. P-A-F, P-A-S, Sport)?
 15. How to determine that your drone is in Danger or Warning Status according to the Aircraft Status Indicator on the drone?
-16. How many types of Low-Battery warnings are there? After these warnings are triggered, what possible operations can I carry out with my drone?
+16. How many types of Low-Battery warnings are there? After these warnings are triggered, what operations can I possibly carry out with my drone?
 17. Under what circumstances will the drone choose to land at its current location instead of returning to the Home Point? How to avoid losing your drone during this operation?
 18. How will the battery voltage change during flights? What are the voltage conditions for safe flights?
 19. What's the weather condition for flying drones? What potential danger you might face when flying in low temperature environment?
