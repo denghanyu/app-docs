@@ -10,7 +10,7 @@ After a successful activation, you can use our app offline in the future.
  
 ## Login You DJI Account {#signin}
 
-Due to the restrictions set by Chinese government and DJI, you MUST login your DJI's account in Altizure app to unlock the drone. This is required for all third-party flight-planning apps in Mainland China. Or otherwise, the drone-operating functions will be severely restricted by the firmware, and your drone can only fly within a small range area. Image transmission function will also be disabled.
+Due to the restrictions set by Chinese government and DJI, you MUST login your DJI's account in Altizure app to unlock the drone. This is required for all third-party flight-planning apps in Mainland China. Or otherwise, the drone-operating functions will be severely restricted by the firmware, and your drone can only fly within a small range of area. Image transmission function will also be disabled.
 
 Entrance:
 
