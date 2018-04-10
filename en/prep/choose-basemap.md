@@ -5,7 +5,7 @@ Flight Planning requires clear Satellite Map. As different map service providers
 * iOS: Apple Map, Google Map
 * Android: Gaode Map, Google Map
 
-## Ways to swtich between different maps
+## Ways to switch between different maps
 
 * **iOS:** Click the gear icon in the top-right corner. Choose a map in the popup window.
 
