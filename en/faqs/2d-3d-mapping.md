@@ -4,9 +4,11 @@
 
 To improve the quality of your 3D model, Altizure app will automatically generate 5 flight paths (1 vertical view + 4 oblique views). We complete all the five flight paths if possible.
 
-The first flight path takes photos from the top (i.e. Camera Angle=0). As for the other four paths, numbered from 2 to 5, the cameras are no longer facing down to the horizontal ground. Instead, they are slightly tilted upward, forming an angle with the vertical line. And this angle is called the Camera Angle. 
+The first flight path takes photos from the top (i.e. Camera Angle=0). As for the other four paths, numbered from 2 to 5, the cameras are no longer facing down to the horizontal ground. Instead, they are slightly tilted upward, forming an angle with the vertical line. And this angle is called the Camera Angle. (Below is the illustration diagram.)
 
 As the default settings in Altizure App can cover most of the daily situations. Normally, you don't need to change those settings.
+
+![camera angle](../../assets/camera-angle.jpg)
 
 ## Can I only take ortho photos?
 
