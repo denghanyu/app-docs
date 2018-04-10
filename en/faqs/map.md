@@ -9,7 +9,7 @@ Where to find this Calibration option:
 * iOS: Click the gear icon on the top right, and find the option of **Calibrate Coordinate (for Mainland China)**.
 * Android: Click the three-dots icon on the top right. In **Map** settings, Find **Calibrate Coordinate (for Mainland China)**.
 
-The method you choose depends on the map service you use, and sometimes, you also need to take the network condition into consideration. Therefore, we strongly recommend you to determine whether to turn on/ off the Coordinate Calibration option in light of the aircraft's position showed on the map. Please be aware that ONLY ONE Calibration option is correct. If the aircraft's position  shown on the map is incorrect, you need to turn on the Coordinate Calibration option, and then re-observe the aircraft's position until it is displayed correctly.
+The method you choose depends on the map service you use, and sometimes, you also need to take the network condition into consideration. Therefore, we strongly recommend you to determine whether to turn on/ off the Coordinate Calibration option in light of the aircraft's position as shown on the map. Please be aware that ONLY ONE Calibration option is correct. If the aircraft's position  shown on the map is incorrect, you need to turn on the Coordinate Calibration option, and then re-observe the aircraft's position until it is displayed correctly.
 
 In general:
 
