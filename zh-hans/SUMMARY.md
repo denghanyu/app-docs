@@ -19,6 +19,7 @@
 * [任务的新建、保存与加载](mission-ios/create-save-load.md)
 * [任务设置](mission-ios/settings.md)
 * [执行前准备](mission-ios/prepare.md)
+* [启动任务](mission-ios/launch.md)
 
 ## 在模拟器中学习使用 Altizure
 
