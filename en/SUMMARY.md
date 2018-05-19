@@ -22,8 +22,8 @@
 
 ## Learning How to Use Altizure in DJI Simulator
 
-* [For Mavic, Phantom 4, Inspire 2, M600, etc.](pc-sim/simulator2.md)
-* [For Phantom 3, Inspire 1, M100, etc.](pc-sim/simulator1.md)
+* [For Mavic, Phantom 4, Inspire 2, M600, etc.](simulator/pc-simulator2.md)
+* [For Phantom 3, Inspire 1, M100, etc.](simulator/pc-simulator1.md)
 
 ## FAQ
 
