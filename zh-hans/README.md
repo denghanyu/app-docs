@@ -33,6 +33,7 @@ Altizure app 是集航线规划、照片采集和三维浏览为一体的移动�
 * [地图](faqs/map.md)
 * [倾斜摄影与正射](faqs/2d-3d-mapping.md)
 * [飞行安全](faqs/safety.md)
+* [飞行记录](faqs/flight-records.md)
 
 ## Altizure app 测试版
 
