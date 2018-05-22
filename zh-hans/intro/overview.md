@@ -1,6 +1,6 @@
 # 简介
 
-## 下载地址 {#installation}
+## 下载地址{#installation}
 
 详细下载地址请参考 [Altizure 官网相关页面](https://www.altizure.cn/mobile)：
 
@@ -9,7 +9,7 @@
     ![AppStore 二维码](../../assets/app-download-ios-appstore.png)
 * Android 版：可在主流应用商店 (例如 Google Play、应用宝、豌豆荚) 中搜索 "Altizure" 找到。
 
-## 主要功能 {#features}
+## 主要功能{#features}
 
 ### 航线规划
 
@@ -36,7 +36,7 @@ iOS 版附加功能：
 * 禁飞区显示
 * 内置飞行模拟器
 
-## 支持的手机/平板和无人机 {#devices}
+## 支持的手机/平板和无人机{#devices}
 
 ### 手机/平板系统要求
 
@@ -68,7 +68,7 @@ iOS 版附加功能：
 4. 不能完美兼容此机型，因为 DJI SDK 不支持（可能永远不会支持） Phantom 3 SE。
 5. 不支持在自带屏幕上使用 Altizure，需要使用不带屏幕的遥控。
 
-### 航线任务支持的相机型号 {#cameras}
+### 航线任务支持的相机型号{#cameras}
 
 | 型号 | iOS (v4.0.0) | Android (v3.7.3) |
 | ---  | :---: | :---: |

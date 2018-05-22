@@ -1,6 +1,6 @@
 # Introduction
 
-## Download Links {#installation}
+## Download Links{#installation}
 
 For more details, please check [Altizure Official Website](https://www.altizure.com/mobile):
 
@@ -9,7 +9,7 @@ For more details, please check [Altizure Official Website](https://www.altizure.
         
 * Android: You can download it from Android App Store (e.g. Google Play) by searching "Altizure".
 
-## Main Functions {#features}
+## Main Functions{#features}
 
 ### Flight Planning
 
@@ -37,7 +37,7 @@ Other Functions (only available for iOS):
 * Has integrated flight simulator.
 
 
-## Supported Smart Phones/ Tables & UAVs {#devices}
+## Supported Smart Phones/ Tables & UAVs{#devices}
 
 ### Requirements on Smart Phone/ Tablet
 
@@ -71,7 +71,7 @@ Notes:
 4. DJI SDK is not (and probably will never be) fully compatible with Phantom 3 SE.
 5. Altizure app does not support aircrafts with Display Controllers. It must be used on a remote controller without a Display Controller.
 
-### Supported Cameras for Waypoint Missions {#cameras}
+### Supported Cameras for Waypoint Missions{#cameras}
 
 | Cameras | iOS (v4.0.0) | Android (v3.7.3) |
 | ---  | :---: | :---: |
