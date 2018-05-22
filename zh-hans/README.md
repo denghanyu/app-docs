@@ -23,6 +23,11 @@ Altizure app 是集航线规划、照片采集和三维浏览为一体的移动�
 * [执行前准备](mission-ios/prepare.md)
 * [启动任务](mission-ios/launch.md)
 
+## 辅助工具
+
+* [地图图层增强](tools/map-layers.md)
+  * [KML](tools/map-layers.md#kml)
+
 ## 在模拟器中学习使用 Altizure
 
 * [用于 Mavic, Phantom 4, Inspire 2, M600 等](simulator/pc-simulator2.md)
