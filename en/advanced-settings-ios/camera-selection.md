@@ -1,10 +1,10 @@
-# Camera Settings (for iOS)
+# Camera Selection (for iOS)
 
 ## Cameras with fix lens
 
 All cameras with fix lens are listed under the "Fixed Lens" section. Users can directly choose their cameras according to the camera models. Here the cell with check mark means choosed.
 
-![fixlens](../../assets/camrea-settings-fix-lens-en.jpg)
+![fixlens](../../assets/camera-selection-ios-fixed-lens-en.jpg)
 
 ## Cameras with changeable lens
 
@@ -14,7 +14,7 @@ Since the camera on DJI Zenmuse series can change lens, users can input differen
 2. Input camera name and focal length while other values are optional and provided default values
 3. Click "Save"
 
-![](../../assets/camrea-settings-x7-custom-en.jpg)
+![](../../assets/camera-selection-ios-custom-example-x7-en.jpg)
 
 
 ## Custom Cameras
@@ -24,15 +24,15 @@ Users can custom their own camera.
 2. Choose the cell according to your camera information e.g. "Known Focal Length" or "Known FOV"
 3. Fill the information
 
-	![focal](../../assets/camrea-settings-focal-en.jpg)
+	![focal](../../assets/camera-selection-ios-known-focal-length-en.jpg)
 
-	![fov](../../assets/camrea-settings-fov-en.jpg)
+	![fov](../../assets/camera-selection-ios-known-fov-en.jpg)
 
 4. Click "Save"
 
 PS：All the camera information such as sensor resolution and sensor size can be founded on the official website of the camera productors. For example Zenmuse X7 camera:
 
-![x7](../../assets/camrea-settings-x7-param-en.png)
+![x7](../../assets/camera-selection-param-example-x7-en.png)
 
 ---
 

@@ -23,7 +23,7 @@
 
 ## 高级设置
 
-* [相机设置](camera-ios/camera-settings.md)
+* [相机选择](advanced-settings-ios/camera-selection.md)
 
 ## 辅助工具
 

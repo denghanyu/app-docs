@@ -22,7 +22,7 @@
 
 ## Advanced Settings \(iOS\)
 
-* [Camera Settings](camera-ios/camera-settings.md)
+* [Camera Selection](advanced-settings-ios/camera-selection.md)
 
 ## Learning How to Use Altizure in DJI Simulator
 
