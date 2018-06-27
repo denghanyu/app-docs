@@ -20,6 +20,10 @@
 * [Mission Settings](mission-ios/settings.md)
 * [Necessary Preparations](mission-ios/prepare.md)
 
+## Advanced Settings \(iOS\)
+
+* [Camera Settings](camera-ios/camera-settings.md)
+
 ## Learning How to Use Altizure in DJI Simulator
 
 * [For Mavic, Phantom 4, Inspire 2, M600, etc.](simulator/pc-simulator2.md)

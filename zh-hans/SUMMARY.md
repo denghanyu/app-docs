@@ -21,6 +21,10 @@
 * [执行前准备](mission-ios/prepare.md)
 * [启动任务](mission-ios/launch.md)
 
+## 高级设置
+
+* [相机设置](camera-ios/camera-settings.md)
+
 ## 辅助工具
 
 * [地图图层增强 \(iOS\)](tools/map-layers.md)
