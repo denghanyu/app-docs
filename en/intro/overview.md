@@ -28,6 +28,7 @@ For more details, please check [Altizure Official Website](https://www.altizure.
 
 Other Functions (only available for iOS):
 * Support importing and displaying additional KML layers.
+* Support partitioning a large scale mission into multiple small scale missions.
 * Support adding an annotation to a point on the map by entering its GPS coordinates.
 * Support adding Tile layers both online and offline.
 * Suport customized camera settings.

@@ -25,6 +25,7 @@
 
 * [地图图层增强 \(iOS\)](tools/map-layers.md)
   * [KML](tools/map-layers.md#kml)
+  * [分割大范围任务](tools/map-layers.md#partition-large-mission)
 
 ## 在模拟器中学习使用 Altizure
 
