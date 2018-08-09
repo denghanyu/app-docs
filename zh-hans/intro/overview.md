@@ -43,30 +43,31 @@ iOS 版附加功能：
 * iOS: 运行 iOS 9.0 以上的 iPhone, iPad, iPod
 * Android: 运行 Android 6.0 以上的手机或平板（不支持 Intel 芯片的设备）
 
-注：不支持 DJI 官方屏幕，例如：Phantom 4 Pro+ 遥控上自带的屏幕
+注：无法安装在 DJI 官方屏幕上，例如：Phantom 4 Pro+ 遥控上自带的屏幕
 
 ### 航线任务支持的无人机型号
 
-| 型号 | iOS (v4.0.0) | Android (v3.7.3) |
+| 型号 | iOS (v4.3.0) | Android (v3.7.7) |
 | ---  | :---: | :---: |
-| Phantom 3 \(Pro / Advanced / 4K / Standard\) | ✔︎ | ✔︎ |
-| Phantom 4 \(4 / 4 Adv / 4 Pro\) | ✔︎ | ✔︎ |
-| Mavic Pro | ✔︎ | ✔︎ |
+| Phantom 3 \(Pro / Adv / 4K / Standard\) | ✔︎ | ✔︎ |
+| Phantom 4 \(4 / 4 Adv / 4 Pro V1\) | ✔︎ | ✔︎ |
+| Phantom 4 Pro V2.0 | ✔︎ | 公测中 |
 | Inspire 1 / 2 | ✔︎ | ✔︎ |
+| Mavic Pro | ✔︎ | ✔︎ |
+| Mavic Air | ✔︎ | 公测中 |
 | M100, M600 系列 （注1） | ✔︎ | ✔︎ |
-| A2 / A3 + LB2 （注1） | ✔︎ | ✔︎ |
-| M200 系列 （注1） | 未测试 | 未测试 |
-| N3 + LB2 （注1） | 未测试 | 未测试 |
+| M200 系列（注1） | 支持但未经严格测试 | 支持但未经严格测试 |
+| A2/A3/N3 飞控 + LB2 （注1） | ✔︎ | ✔︎ |
 | Spark （注2） | 暂不支持 | 暂不支持 |
-| Mavic Air （注3） | 暂不支持 | 暂不支持 |
 | Phantom 3 SE （注4） | 不支持 | 不支持 |
 | Phantom 4 Pro+ 带屏幕版 （注5） | 不支持 | 不支持 |
 
 1. 由于缺少第三方相机的 API，目前只兼容大疆官方相机，使用第三方相机时 app 可能无法自动拍照。
 2. 由于未知原因，Spark 暂时不支持航线任务。
-3. 由于是新机型，DJI SDK 尚未支持此机型。需要等待 SDK 更新并支持航线任务。
-4. 不能完美兼容此机型，因为 DJI SDK 不支持（可能永远不会支持） Phantom 3 SE。
-5. 不支持在自带屏幕上使用 Altizure，需要使用不带屏幕的遥控。
+3. 不能完美兼容此机型，因为 DJI SDK 不支持（可能永远不会支持） Phantom 3 SE。
+4. 不支持在自带屏幕上使用 Altizure，需要使用不带屏幕的遥控。
+
+<!-- 3. 由于是新机型，DJI SDK 尚未支持此机型。需要等待 SDK 更新并支持航线任务。 -->
 
 ### 航线任务支持的相机型号{#cameras}
 
