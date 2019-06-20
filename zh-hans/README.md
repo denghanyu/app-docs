@@ -27,6 +27,7 @@ Altizure app 是集航线规划、照片采集和三维浏览为一体的移动�
 
 * [地图图层增强](tools/map-layers.md)
   * [KML](tools/map-layers.md#kml)
+  * [分割大范围任务](tools/map-layers.md#partition-large-mission)
 
 ## 在模拟器中学习使用 Altizure
 
